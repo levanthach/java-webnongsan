@@ -5,13 +5,6 @@
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
-<!DOCTYPE html>
-<html>
-    <head>
-        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>Slider Page</title>
-    </head>
-    <body>
        <section id="aa-slider">
     <div class="aa-slider-area">
       <div id="sequence" class="seq">
@@ -87,5 +80,3 @@
       </div>
     </div>
   </section>
-    </body>
-</html>
