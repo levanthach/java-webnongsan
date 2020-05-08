@@ -90,10 +90,10 @@
               <div class="aa-product-inner">
                 <!-- start prduct navigation -->
                  <ul class="nav nav-tabs aa-products-tab">
-                    <li class="active"><a href="#men" data-toggle="tab">Men</a></li>
-                    <li><a href="#women" data-toggle="tab">Women</a></li>
-                    <li><a href="#sports" data-toggle="tab">Sports</a></li>
-                    <li><a href="#electronics" data-toggle="tab">Electronics</a></li>
+                    <li class="active"><a href="#men" data-toggle="tab">Rau Củ Quả</a></li>
+                    <li><a href="#women" data-toggle="tab">Các Loại Hạt</a></li>
+                    <li><a href="#sports" data-toggle="tab">Trái Cây </a></li>
+                    <li><a href="#electronics" data-toggle="tab">Mật Ong & Tinh Dầu</a></li>
                   </ul>
                   <!-- Tab panes -->
                   <div class="tab-content">
@@ -239,7 +239,7 @@
                            <span class="aa-badge aa-sold-out" href="#">Sold Out!</span>
                         </li>                        
                       </ul>
-                      <a class="aa-browse-btn" href="#">Browse all Product <span class="fa fa-long-arrow-right"></span></a>
+                      <a class="aa-browse-btn" href="#">Xem Tất Cả Sản Phẩm <span class="fa fa-long-arrow-right"></span></a>
                     </div>
                     <!-- / men product category -->
                     <!-- start women product category -->
@@ -385,7 +385,7 @@
                            <span class="aa-badge aa-sold-out" href="#">Sold Out!</span>
                         </li>                        
                       </ul>
-                      <a class="aa-browse-btn" href="#">Browse all Product <span class="fa fa-long-arrow-right"></span></a>
+                      <a class="aa-browse-btn" href="#">Xem Tất Cả Sản Phẩm <span class="fa fa-long-arrow-right"></span></a>
                     </div>
                     <!-- / women product category -->
                     <!-- start sports product category -->
@@ -674,7 +674,7 @@
                            <span class="aa-badge aa-sold-out" href="#">Sold Out!</span>
                         </li>                        
                       </ul>
-                      <a class="aa-browse-btn" href="#">Browse all Product <span class="fa fa-long-arrow-right"></span></a>
+                      <a class="aa-browse-btn" href="#">Xem Tất Cả Sản Phẩm <span class="fa fa-long-arrow-right"></span></a>
                     </div>
                     <!-- / electronic product category -->
                   </div>
@@ -790,9 +790,9 @@
             <div class="aa-popular-category-area">
               <!-- start prduct navigation -->
              <ul class="nav nav-tabs aa-products-tab">
-                <li class="active"><a href="#popular" data-toggle="tab">Popular</a></li>
-                <li><a href="#featured" data-toggle="tab">Featured</a></li>
-                <li><a href="#latest" data-toggle="tab">Latest</a></li>                    
+                <li class="active"><a href="#popular" data-toggle="tab">Sản Phẩm Mới</a></li>
+                <li><a href="#featured" data-toggle="tab">Sản Phẩm Bán Chạy</a></li>
+                <li><a href="#latest" data-toggle="tab">Sản Phẩm Giảm Giá</a></li>                    
               </ul>
               <!-- Tab panes -->
               <div class="tab-content">
@@ -940,7 +940,7 @@
                       <span class="aa-badge aa-sale" href="#">SALE!</span>
                     </li>                                                                                   
                   </ul>
-                  <a class="aa-browse-btn" href="#">Browse all Product <span class="fa fa-long-arrow-right"></span></a>
+                  <a class="aa-browse-btn" href="#">Xem Tất Cả Sản Phẩm <span class="fa fa-long-arrow-right"></span></a>
                 </div>
                 <!-- / popular product category -->
                 
@@ -1088,7 +1088,7 @@
                       <span class="aa-badge aa-sale" href="#">SALE!</span>
                     </li>                                                                                   
                   </ul>
-                  <a class="aa-browse-btn" href="#">Browse all Product <span class="fa fa-long-arrow-right"></span></a>
+                  <a class="aa-browse-btn" href="#">Xem Tất Cả Sản Phẩm<span class="fa fa-long-arrow-right"></span></a>
                 </div>
                 <!-- / featured product category -->
 
@@ -1236,7 +1236,7 @@
                       <span class="aa-badge aa-sale" href="#">SALE!</span>
                     </li>                                                                                   
                   </ul>
-                   <a class="aa-browse-btn" href="#">Browse all Product <span class="fa fa-long-arrow-right"></span></a>
+                   <a class="aa-browse-btn" href="#">Xem Tất Cả Sản Phẩm<span class="fa fa-long-arrow-right"></span></a>
                 </div>
                 <!-- / latest product category -->              
               </div>
@@ -1257,24 +1257,24 @@
             <div class="col-md-4 col-sm-4 col-xs-12">
               <div class="aa-support-single">
                 <span class="fa fa-truck"></span>
-                <h4>FREE SHIPPING</h4>
-                <P>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam, nobis.</P>
+                <h4>MIỄN PHÍ VẬN CHUYỂN</h4>
+                <P>Chúng tôi đã áp dụng gói miễn phí vận chuyển cho đơn hàng trên 280.000VNĐ.</P>
               </div>
             </div>
             <!-- single support -->
             <div class="col-md-4 col-sm-4 col-xs-12">
               <div class="aa-support-single">
                 <span class="fa fa-clock-o"></span>
-                <h4>30 DAYS MONEY BACK</h4>
-                <P>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam, nobis.</P>
+                <h4>GIAO HÀNG NHANH</h4>
+                <P>Chúng tôi đảm bảo hàng đến tay khách hàng nhanh và đảm bảo sản phẩm an toàn.</P>
               </div>
             </div>
             <!-- single support -->
             <div class="col-md-4 col-sm-4 col-xs-12">
               <div class="aa-support-single">
                 <span class="fa fa-phone"></span>
-                <h4>SUPPORT 24/7</h4>
-                <P>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam, nobis.</P>
+                <h4>HỖ TRỢ 24/7</h4>
+                <P>Hỗ trợ tư vấn và đặt hàng mọi lúc mọi nơi, đảm bảo thời gian cho khách hàng.</P>
               </div>
             </div>
           </div>
@@ -1409,32 +1409,6 @@
     </div>
   </section>
   <!-- / Latest Blog -->
-
-  <!-- Client Brand -->
-  <section id="aa-client-brand">
-    <div class="container">
-      <div class="row">
-        <div class="col-md-12">
-          <div class="aa-client-brand-area">
-            <ul class="aa-client-brand-slider">
-              <li><a href="#"><img src="assets/img/client-brand-java.png" alt="java img"></a></li>
-              <li><a href="#"><img src="assets/img/client-brand-jquery.png" alt="jquery img"></a></li>
-              <li><a href="#"><img src="assets/img/client-brand-html5.png" alt="html5 img"></a></li>
-              <li><a href="#"><img src="assets/img/client-brand-css3.png" alt="css3 img"></a></li>
-              <li><a href="#"><img src="assets/img/client-brand-wordpress.png" alt="wordPress img"></a></li>
-              <li><a href="#"><img src="assets/img/client-brand-joomla.png" alt="joomla img"></a></li>
-              <li><a href="#"><img src="assets/img/client-brand-java.png" alt="java img"></a></li>
-              <li><a href="#"><img src="assets/img/client-brand-jquery.png" alt="jquery img"></a></li>
-              <li><a href="#"><img src="assets/img/client-brand-html5.png" alt="html5 img"></a></li>
-              <li><a href="#"><img src="assets/img/client-brand-css3.png" alt="css3 img"></a></li>
-              <li><a href="#"><img src="assets/img/client-brand-wordpress.png" alt="wordPress img"></a></li>
-            </ul>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-  <!-- / Client Brand -->
 
   <!-- Subscribe section -->
   <section id="aa-subscribe">
