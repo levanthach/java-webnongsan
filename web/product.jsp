@@ -426,18 +426,17 @@
           <aside class="aa-sidebar">
             <!-- single sidebar -->
             <div class="aa-sidebar-widget">
-              <h3>Category</h3>
+              <h3>Danh mục</h3>
               <ul class="aa-catg-nav">
-                <li><a href="#">Men</a></li>
-                <li><a href="">Women</a></li>
-                <li><a href="">Kids</a></li>
-                <li><a href="">Electornics</a></li>
-                <li><a href="">Sports</a></li>
+                <li><a href="#">Rau củ quả</a></li>
+                <li><a href="">Các loại hạt</a></li>
+                <li><a href="">Tinh dầu</a></li>
+                <li><a href="">Mật ong</a></li>
               </ul>
             </div>
             <!-- single sidebar -->
             <div class="aa-sidebar-widget">
-              <h3>Tags</h3>
+              <h3>Thẻ</h3>
               <div class="tag-cloud">
                 <a href="#">Fashion</a>
                 <a href="#">Ecommerce</a>
