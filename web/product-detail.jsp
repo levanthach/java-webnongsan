@@ -17,11 +17,11 @@
    <div class="aa-catg-head-banner-area">
      <div class="container">
       <div class="aa-catg-head-banner-content">
-        <h2>T-Shirt</h2>
+        <h2>Hạt óc chó</h2>
         <ol class="breadcrumb">
-          <li><a href="index.jsp.html">Home</a></li>         
-          <li><a href="#">Product</a></li>
-          <li class="active">T-shirt</li>
+          <li><a href="index.jsp">Trang chủ</a></li>         
+          <li><a href="product.jsp">Mặt hàng</a></li>
+          <li class="active">Hạt óc chó</li>
         </ol>
       </div>
      </div>
@@ -61,27 +61,12 @@
                 <!-- Modal view content -->
                 <div class="col-md-7 col-sm-7 col-xs-12">
                   <div class="aa-product-view-content">
-                    <h3>T-Shirt</h3>
+                    <h3>Hạt óc chó Mỹ 500gr nhập khẩu Mỹ</h3>
                     <div class="aa-price-block">
-                      <span class="aa-product-view-price">$34.99</span>
-                      <p class="aa-product-avilability">Avilability: <span>In stock</span></p>
+                        <span class="aa-product-view-price">550.000<sup><u>đ</u></sup></span>
+                      <p class="aa-product-avilability">Tình trạng: <span>Còn hàng</span></p>
                     </div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Officiis animi, veritatis quae repudiandae quod nulla porro quidem, itaque quis quaerat!</p>
-                    <h4>Size</h4>
-                    <div class="aa-prod-view-size">
-                      <a href="#">S</a>
-                      <a href="#">M</a>
-                      <a href="#">L</a>
-                      <a href="#">XL</a>
-                    </div>
-                    <h4>Color</h4>
-                    <div class="aa-color-tag">
-                      <a href="#" class="aa-color-green"></a>
-                      <a href="#" class="aa-color-yellow"></a>
-                      <a href="#" class="aa-color-pink"></a>                      
-                      <a href="#" class="aa-color-black"></a>
-                      <a href="#" class="aa-color-white"></a>                      
-                    </div>
+                    <p>Giúp mát gan, thông mật, lợi tiểu. Giúp làm đẹp da chống lão hóa!</p>
                     <div class="aa-prod-quantity">
                       <form action="">
                         <select id="" name="">
@@ -94,13 +79,13 @@
                         </select>
                       </form>
                       <p class="aa-prod-category">
-                        Category: <a href="#">Polo T-Shirt</a>
+                        Danh mục: <a href="product.jsp">Các loại hạt</a>
                       </p>
                     </div>
                     <div class="aa-prod-view-bottom">
-                      <a class="aa-add-to-cart-btn" href="#">Add To Cart</a>
-                      <a class="aa-add-to-cart-btn" href="#">Wishlist</a>
-                      <a class="aa-add-to-cart-btn" href="#">Compare</a>
+                      <a class="aa-add-to-cart-btn" href="#">Thêm vào giỏ hàng</a>
+                      <a class="aa-add-to-cart-btn" href="#">Đánh dấu</a>
+                      <a class="aa-add-to-cart-btn" href="#">So sánh</a>
                     </div>
                   </div>
                 </div>
