@@ -18,10 +18,10 @@
    <div class="aa-catg-head-banner-area">
      <div class="container">
       <div class="aa-catg-head-banner-content">
-        <h2>Contact</h2>
+        <h2>Liên hệ</h2>
         <ol class="breadcrumb">
-          <li><a href="index.jsp.html">Home</a></li>         
-          <li class="active">Contact</li>
+          <li><a href="index.jsp">Trang chủ</a></li>         
+          <li class="active">Liên hệ</li>
         </ol>
       </div>
      </div>
@@ -35,12 +35,12 @@
        <div class="col-md-12">
          <div class="aa-contact-area">
            <div class="aa-contact-top">
-             <h2>We are wating to assist you..</h2>
+             <h2>Chúng tôi đang chờ để hỗ trợ bạn..</h2>
              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quasi, quos.</p>
            </div>
            <!-- contact map -->
            <div class="aa-contact-map">
-              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3902.3714257064535!2d-86.7550931378034!3d34.66757706940219!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8862656f8475892d%3A0xf3b1aee5313c9d4d!2sHuntsville%2C+AL+35813%2C+USA!5e0!3m2!1sen!2sbd!4v1445253385137" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3918.2324288146733!2d106.80161941474984!3d10.869918392258143!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x317527587e9ad5bf%3A0xafa66f9c8be3c91!2zVHLGsOG7nW5nIMSQ4bqhaSBo4buNYyBDw7RuZyBuZ2jhu4cgVGjDtG5nIHRpbiDEkEhRRyBUUC5IQ00!5e0!3m2!1svi!2s!4v1589002140777!5m2!1svi!2s" width="100%" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
            </div>
            <!-- Contact address -->
            <div class="aa-contact-address">
