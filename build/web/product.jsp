@@ -428,8 +428,8 @@
             <div class="aa-sidebar-widget">
               <h3>Danh mục</h3>
               <ul class="aa-catg-nav">
-                <li><a href="#">Rau củ quả</a></li>
-                <li><a href="">Các loại hạt</a></li>
+                <li><a href="#">Các loại hạt</a></li>
+                <li><a href="">Rau củ quả</a></li>
                 <li><a href="">Tinh dầu</a></li>
                 <li><a href="">Mật ong</a></li>
               </ul>
