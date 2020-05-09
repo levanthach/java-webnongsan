@@ -24,10 +24,10 @@
               <div class="col-md-5 no-padding">                
                 <div class="aa-promo-left">
                   <div class="aa-promo-banner">                    
-                    <img src="assets/img/promo-banner-1.jpg" alt="img">                    
+                    <img src="assets/images/section1_tc.jpg" alt="dâu tây Đà Lạt">                    
                     <div class="aa-prom-content">
-                      <span>75% Off</span>
-                      <h4><a href="#">For Women</a></h4>                      
+                      <span>Giảm giá 35%</span>
+                      <h4><a href="#">Dâu tây Đà Lạt</a></h4>                      
                     </div>
                   </div>
                 </div>
@@ -37,37 +37,37 @@
                 <div class="aa-promo-right">
                   <div class="aa-single-promo-right">
                     <div class="aa-promo-banner">                      
-                      <img src="assets/img/promo-banner-3.jpg" alt="img">                      
+                      <img src="assets/images/section2_tc.jpg" alt="hạt tiêu daklak">                      
                       <div class="aa-prom-content">
-                        <span>Exclusive Item</span>
-                        <h4><a href="#">For Men</a></h4>                        
+                        <span>Sản Phẩm độc quyền</span>
+                        <h4><a href="#">Hạt tiêu DakLak</a></h4>                        
                       </div>
                     </div>
                   </div>
                   <div class="aa-single-promo-right">
                     <div class="aa-promo-banner">                      
-                      <img src="assets/img/promo-banner-2.jpg" alt="img">                      
+                      <img src="assets/images/section3_tc.jpg" alt="img">                      
                       <div class="aa-prom-content">
-                        <span>Sale Off</span>
-                        <h4><a href="#">On Shoes</a></h4>                        
+                        <span>Sản phẩm nhập khẩu</span>
+                        <h4><a href="#">Cherry Mỹ</a></h4>                        
                       </div>
                     </div>
                   </div>
                   <div class="aa-single-promo-right">
                     <div class="aa-promo-banner">                      
-                      <img src="assets/img/promo-banner-4.jpg" alt="img">                      
+                      <img src="assets/images/section4_tc.jpg" alt="img">                      
                       <div class="aa-prom-content">
-                        <span>New Arrivals</span>
-                        <h4><a href="#">For Kids</a></h4>                        
+                        <span>Giảm giá 25%</span>
+                        <h4><a href="#">Tinh Dầu Sả</a></h4>                        
                       </div>
                     </div>
                   </div>
                   <div class="aa-single-promo-right">
                     <div class="aa-promo-banner">                      
-                      <img src="assets/img/promo-banner-5.jpg" alt="img">                      
+                      <img src="assets/images/section5_tc.jpg" alt="img">                      
                       <div class="aa-prom-content">
-                        <span>25% Off</span>
-                        <h4><a href="#">For Bags</a></h4>                        
+                        <span>Sản phẩm độc quyền</span>
+                        <h4><a href="#">Mật ong rừng Tây Bắc</a></h4>                        
                       </div>
                     </div>
                   </div>
@@ -774,7 +774,7 @@
         <div class="col-md-12">        
           <div class="row">
             <div class="aa-banner-area">
-            <a href="#"><img src="assets/img/fashion-banner.jpg" alt="fashion banner img"></a>
+            <a href="#"><img src="assets/images/banner_tc.jpg" alt="banner trang chủ"></a>
           </div>
           </div>
         </div>
@@ -1293,39 +1293,39 @@
               <!-- single slide -->
               <li>
                 <div class="aa-testimonial-single">
-                <img class="aa-testimonial-img" src="assets/img/testimonial-img-2.jpg" alt="testimonial img">
+                <img class="aa-testimonial-img" src="assets/images/avatar.jpg" alt="avatar 1">
                   <span class="fa fa-quote-left aa-testimonial-quote"></span>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt distinctio omnis possimus, facere, quidem qui!consectetur adipisicing elit. Sunt distinctio omnis possimus, facere, quidem qui.</p>
+                  <p>Tôi đã mua hàng ở cửa hàng khá nhiều lần rồi, và tôi cảm thấy sản phẩm của cửa hàng 
+                    được giao khá nhanh và sản phẩm thì tốt.</p>
                   <div class="aa-testimonial-info">
-                    <p>Allison</p>
-                    <span>Designer</span>
-                    <a href="#">Dribble.com</a>
+                    <p>Hà Ngủ Tân</p>
+                    <span>Master Develop</span>
                   </div>
                 </div>
               </li>
               <!-- single slide -->
               <li>
                 <div class="aa-testimonial-single">
-                <img class="aa-testimonial-img" src="assets/img/testimonial-img-1.jpg" alt="testimonial img">
+                <img class="aa-testimonial-img" src="assets/images/avater-2.jpg" alt="avatar 2">
                   <span class="fa fa-quote-left aa-testimonial-quote"></span>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt distinctio omnis possimus, facere, quidem qui!consectetur adipisicing elit. Sunt distinctio omnis possimus, facere, quidem qui.</p>
+                  <p>Tôi đã mua hàng ở cửa hàng khá nhiều lần rồi, và tôi cảm thấy sản phẩm của cửa hàng 
+                    được giao khá nhanh và sản phẩm thì tốt.</p>
                   <div class="aa-testimonial-info">
-                    <p>KEVIN MEYER</p>
-                    <span>CEO</span>
-                    <a href="#">Alphabet</a>
+                    <p>Maria Ozawa</p>
+                    <span>Diễn Viên, Idol</span>
                   </div>
                 </div>
               </li>
                <!-- single slide -->
               <li>
                 <div class="aa-testimonial-single">
-                <img class="aa-testimonial-img" src="assets/img/testimonial-img-3.jpg" alt="testimonial img">
+                <img class="aa-testimonial-img" src="assets/images/avatar-1.jpg" alt="avatar 3">
                   <span class="fa fa-quote-left aa-testimonial-quote"></span>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt distinctio omnis possimus, facere, quidem qui!consectetur adipisicing elit. Sunt distinctio omnis possimus, facere, quidem qui.</p>
+                  <p>Tôi đã mua hàng ở cửa hàng khá nhiều lần rồi, và tôi cảm thấy sản phẩm của cửa hàng 
+                    được giao khá nhanh và sản phẩm thì tốt.</p>
                   <div class="aa-testimonial-info">
-                    <p>Luner</p>
-                    <span>COO</span>
-                    <a href="#">Kinatic Solution</a>
+                    <p>Oanh Oanh</p>
+                    <span>Sinh viên</span>
                   </div>
                 </div>
               </li>
@@ -1343,24 +1343,27 @@
       <div class="row">
         <div class="col-md-12">
           <div class="aa-latest-blog-area">
-            <h2>LATEST BLOG</h2>
+            <h2>BLOG CHĂM SÓC SỨC KHỎE</h2>
             <div class="row">
               <!-- single latest blog -->
               <div class="col-md-4 col-sm-4">
                 <div class="aa-latest-blog-single">
                   <figure class="aa-blog-img">                    
-                    <a href="#"><img src="assets/img/promo-banner-1.jpg" alt="img"></a>  
+                    <a href="#"><img src="assets/images/blog_1.jpg" alt="img"></a>  
                       <figcaption class="aa-blog-img-caption">
-                      <span href="#"><i class="fa fa-eye"></i>5K</span>
-                      <a href="#"><i class="fa fa-thumbs-o-up"></i>426</a>
-                      <a href="#"><i class="fa fa-comment-o"></i>20</a>
-                      <span href="#"><i class="fa fa-clock-o"></i>June 26, 2016</span>
+                      <span href="#"><i class="fa fa-eye"></i>52K</span>
+                      <a href="#"><i class="fa fa-thumbs-o-up"></i>116</a>
+                      <a href="#"><i class="fa fa-comment-o"></i>29</a>
+                      <span href="#"><i class="fa fa-clock-o"></i>19/5/2020</span>
                     </figcaption>                          
                   </figure>
                   <div class="aa-blog-info">
-                    <h3 class="aa-blog-title"><a href="#">Lorem ipsum dolor sit amet</a></h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda, ad? Autem quos natus nisi aperiam, beatae, fugiat odit vel impedit dicta enim repellendus animi. Expedita quas reprehenderit incidunt, voluptates corporis.</p> 
-                    <a href="#" class="aa-read-mor-btn">Read more <span class="fa fa-long-arrow-right"></span></a>
+                    <h3 class="aa-blog-title"><a href="#">Ăn khoa học, sống khỏe mạnh</a></h3>
+                    <p>Một chế độ ăn khoa học sẽ giúp bạn có được một sức khỏe dẻo dai và hạn chế những bệnh tật.
+                        Dinh dưỡng hợp lý là nguyên tắc sống cần thiết để giữ gìn sức khỏe, bền bỉ, dẻo dai trong
+                        lao động và ít mắc các bệnh mạn tính khi đã có tuổi. Người lao động, cả trí óc và chân tay 
+                        đều cần thực hiện các nguyên tắc dinh dưỡng hợp lý chính sau đây.</p> 
+                    <a href="#" class="aa-read-mor-btn">Xem thêm<span class="fa fa-long-arrow-right"></span></a>
                   </div>
                 </div>
               </div>
@@ -1368,18 +1371,22 @@
               <div class="col-md-4 col-sm-4">
                 <div class="aa-latest-blog-single">
                   <figure class="aa-blog-img">                    
-                    <a href="#"><img src="assets/img/promo-banner-3.jpg" alt="img"></a>  
+                    <a href="#"><img src="assets/images/blog_2.jpg" alt="img"></a>  
                       <figcaption class="aa-blog-img-caption">
-                      <span href="#"><i class="fa fa-eye"></i>5K</span>
-                      <a href="#"><i class="fa fa-thumbs-o-up"></i>426</a>
+                      <span href="#"><i class="fa fa-eye"></i>5.2K</span>
+                      <a href="#"><i class="fa fa-thumbs-o-up"></i>416</a>
                       <a href="#"><i class="fa fa-comment-o"></i>20</a>
-                      <span href="#"><i class="fa fa-clock-o"></i>June 26, 2016</span>
+                      <span href="#"><i class="fa fa-clock-o"></i>16/1/2020</span>
                     </figcaption>                          
                   </figure>
                   <div class="aa-blog-info">
-                    <h3 class="aa-blog-title"><a href="#">Lorem ipsum dolor sit amet</a></h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda, ad? Autem quos natus nisi aperiam, beatae, fugiat odit vel impedit dicta enim repellendus animi. Expedita quas reprehenderit incidunt, voluptates corporis.</p> 
-                     <a href="#" class="aa-read-mor-btn">Read more <span class="fa fa-long-arrow-right"></span></a>         
+                    <h3 class="aa-blog-title"><a href="#">18 Tác dụng của tinh dầu sả</a></h3>
+                    <p>1. Khử mùi tự nhiên<br>
+                       Sử dụng tinh dầu sả chanh như một chất làm mát, làm sạch không khí  hoặc khử mùi tự nhiên 
+                       và an toàn. Pha loãng từ 3ml đến 50ml tinh dầu sả chanh với 100-200ml nước tùy sở thích đậm 
+                       nhạt vào một bình xịt, sử dụng trong phòng, nhà vệ sinh, nhà bếp hoặc các nơi bạn muốn. Hoặc 
+                       bạn cũng có thể sử dụng với đèn xông tinh dầu hoặc máy khuếch tán tinh dầu.</p> 
+                     <a href="#" class="aa-read-mor-btn">Xem thêm <span class="fa fa-long-arrow-right"></span></a>         
                   </div>
                 </div>
               </div>
@@ -1387,18 +1394,21 @@
               <div class="col-md-4 col-sm-4">
                 <div class="aa-latest-blog-single">
                   <figure class="aa-blog-img">                    
-                    <a href="#"><img src="assets/img/promo-banner-1.jpg" alt="img"></a>  
+                    <a href="#"><img src="assets/images/blog_3.jpg" alt="img"></a>  
                       <figcaption class="aa-blog-img-caption">
-                      <span href="#"><i class="fa fa-eye"></i>5K</span>
-                      <a href="#"><i class="fa fa-thumbs-o-up"></i>426</a>
-                      <a href="#"><i class="fa fa-comment-o"></i>20</a>
-                      <span href="#"><i class="fa fa-clock-o"></i>June 26, 2016</span>
+                      <span href="#"><i class="fa fa-eye"></i>10.3K</span>
+                      <a href="#"><i class="fa fa-thumbs-o-up"></i>432</a>
+                      <a href="#"><i class="fa fa-comment-o"></i>12</a>
+                      <span href="#"><i class="fa fa-clock-o"></i>20/5/2020</span>
                     </figcaption>                          
                   </figure>
                   <div class="aa-blog-info">
-                    <h3 class="aa-blog-title"><a href="#">Lorem ipsum dolor sit amet</a></h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda, ad? Autem quos natus nisi aperiam, beatae, fugiat odit vel impedit dicta enim repellendus animi. Expedita quas reprehenderit incidunt, voluptates corporis.</p> 
-                    <a href="#" class="aa-read-mor-btn">Read more <span class="fa fa-long-arrow-right"></span></a>
+                    <h3 class="aa-blog-title"><a href="#">Nhận 5 cách làm trắng da bằng mật ong tại nhà </a></h3>
+                    <p>Trong những năm gần đây, việc làm đẹp bằng các nguyên liệu tự nhiên vốn dĩ không còn quá xa
+                        lạ với chị em phụ nữ. Đặc biệt không thể không kể đến mật ong - một tài sản quý giá từ
+                        thiên nhiên với nhiều công dụng vượt bậc trên nhiều lĩnh vực. Cùng tham khảo ngay 5 cách
+                        làm trắng da bằng mật ong cực hiệu quả nhé!</p> 
+                    <a href="#" class="aa-read-mor-btn">Xem thêm <span class="fa fa-long-arrow-right"></span></a>
                   </div>
                 </div>
               </div>
@@ -1409,26 +1419,6 @@
     </div>
   </section>
   <!-- / Latest Blog -->
-
-  <!-- Subscribe section -->
-  <section id="aa-subscribe">
-    <div class="container">
-      <div class="row">
-        <div class="col-md-12">
-          <div class="aa-subscribe-area">
-            <h3>Subscribe our newsletter </h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ex, velit!</p>
-            <form action="" class="aa-subscribe-form">
-              <input type="email" name="" id="" placeholder="Enter your Email">
-              <input type="submit" value="Subscribe">
-            </form>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-  <!-- / Subscribe section -->
-    
 
   <!-- Login Modal -->  
   <div class="modal fade" id="login-modal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
