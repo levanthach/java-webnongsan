@@ -36,7 +36,7 @@
          <div class="aa-contact-area">
            <div class="aa-contact-top">
              <h2>Chúng tôi đang chờ để hỗ trợ bạn..</h2>
-             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quasi, quos.</p>
+             <p>Nếu bạn nó bất cứ thắc mắc hay ý kiến gì cứ tìm đến chúng tôi.</p>
            </div>
            <!-- contact map -->
            <div class="aa-contact-map">
@@ -83,11 +83,11 @@
                <div class="col-md-4">
                  <div class="aa-contact-address-right">
                    <address>
-                     <h4>DailyShop</h4>
-                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rerum modi dolor facilis! Nihil error, eius.</p>
-                     <p><span class="fa fa-home"></span>Huntsville, AL 35813, USA</p>
-                     <p><span class="fa fa-phone"></span>+ 021.343.7575</p>
-                     <p><span class="fa fa-envelope"></span>Email: support@dailyshop.com</p>
+                     <h4>Nông Sản 24</h4>
+                     <p>Liên hệ cho chúng tôi bất cứ khi nào bạn cần.</p>
+                     <p><span class="fa fa-home"></span>NongSan, Khu phố 6, Linh Trung, Thủ Đức, TP.HCM</p>
+                     <p><span class="fa fa-phone"></span>+ 00-62-658-658</p>
+                     <p><span class="fa fa-envelope"></span>Email: support@nongsan24.com</p>
                    </address>
                  </div>
                </div>
