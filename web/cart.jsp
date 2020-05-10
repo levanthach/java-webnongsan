@@ -5,6 +5,13 @@
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>Giỏ hàng</title>
+    </head>
+  <body> 
    
   <!-- Start header section -->
   <jsp:include page = "./header/mainHeader.jsp" flush = "true" />
@@ -13,14 +20,14 @@
 <!--  content -->
 <!-- catg header banner section -->
   <section id="aa-catg-head-banner">
-   <img src="assets/img/fashion/fashion-header-bg-8.jpg" alt="fashion img">
+   <img src="assets/img/fashion/cart.jpg" alt="fashion img" width="1500" height="500">
    <div class="aa-catg-head-banner-area">
      <div class="container">
       <div class="aa-catg-head-banner-content">
-        <h2>Cart Page</h2>
+        <h2>Giỏ hàng</h2>
         <ol class="breadcrumb">
-          <li><a href="index.jsp.html">Home</a></li>                   
-          <li class="active">Cart</li>
+          <li><a href="index.jsp.html">Trang chủ </a></li>
+          <li class="active">Giỏ hàng</li>
         </ol>
       </div>
      </div>
@@ -40,35 +47,35 @@
                   <table class="table">
                     <thead>
                       <tr>
-                        <th></th>
-                        <th></th>
-                        <th>Product</th>
-                        <th>Price</th>
-                        <th>Quantity</th>
-                        <th>Total</th>
+                        <th>Bỏ chọn</th>
+                        <th>Mô tả</th>
+                        <th>Sản phẩm</th>
+                        <th>Giá</th>
+                        <th>Số lượng</th>
+                        <th>Tổng cộng</th>
                       </tr>
                     </thead>
                     <tbody>
                       <tr>
                         <td><a class="remove" href="#"><fa class="fa fa-close"></fa></a></td>
-                        <td><a href="#"><img src="assets/img/man/polo-shirt-1.png" alt="img"></a></td>
-                        <td><a class="aa-cart-title" href="#">Polo T-Shirt</a></td>
+                        <td><a href="#"><img src="assets/img/fashion/vitao.jpg" alt="img"></a></td>
+                        <td><a class="aa-cart-title" href="#">Vi tảo cao cấp</a></td>
                         <td>$250</td>
                         <td><input class="aa-cart-quantity" type="number" value="1"></td>
                         <td>$250</td>
                       </tr>
                       <tr>
                         <td><a class="remove" href="#"><fa class="fa fa-close"></fa></a></td>
-                        <td><a href="#"><img src="assets/img/man/polo-shirt-2.png" alt="img"></a></td>
-                        <td><a class="aa-cart-title" href="#">Polo T-Shirt</a></td>
-                        <td>$150</td>
+                        <td><a href="#"><img src="assets/img/fashion/mangtay.jpg" alt="img"></a></td>
+                        <td><a class="aa-cart-title" href="#">Măng tây</a></td>
+                        <td>$250</td>
                         <td><input class="aa-cart-quantity" type="number" value="1"></td>
-                        <td>$150</td>
+                        <td>$250</td>
                       </tr>
                       <tr>
                         <td><a class="remove" href="#"><fa class="fa fa-close"></fa></a></td>
-                        <td><a href="#"><img src="assets/img/man/polo-shirt-3.png" alt="img"></a></td>
-                        <td><a class="aa-cart-title" href="#">Polo T-Shirt</a></td>
+                        <td><a href="#"><img src="assets/img/fashion/hatdieu.jpg" alt="img"></a></td>
+                        <td><a class="aa-cart-title" href="#">Hạt điều</a></td>
                         <td>$50</td>
                         <td><input class="aa-cart-quantity" type="number" value="1"></td>
                         <td>$50</td>
@@ -76,10 +83,10 @@
                       <tr>
                         <td colspan="6" class="aa-cart-view-bottom">
                           <div class="aa-cart-coupon">
-                            <input class="aa-coupon-code" type="text" placeholder="Coupon">
-                            <input class="aa-cart-view-btn" type="submit" value="Apply Coupon">
+                            <input class="aa-coupon-code" type="text" placeholder="Mã giảm giá">
+                            <input class="aa-cart-view-btn" type="submit" value="Áp dụng mã giảm giá">
                           </div>
-                          <input class="aa-cart-view-btn" type="submit" value="Update Cart">
+                          <input class="aa-cart-view-btn" type="submit" value="Cập nhật giỏ hàng">
                         </td>
                       </tr>
                       </tbody>
@@ -88,20 +95,20 @@
              </form>
              <!-- Cart Total view -->
              <div class="cart-view-total">
-               <h4>Cart Totals</h4>
+               <h4>Thông tin giỏ hàng</h4>
                <table class="aa-totals-table">
                  <tbody>
                    <tr>
-                     <th>Subtotal</th>
-                     <td>$450</td>
+                     <th>Tạm tính</th>
+                     <td>$550</td>
                    </tr>
                    <tr>
-                     <th>Total</th>
-                     <td>$450</td>
+                     <th>Tổng cộng</th>
+                     <td>$550</td>
                    </tr>
                  </tbody>
                </table>
-               <a href="#" class="aa-cart-view-btn">Proced to Checkout</a>
+               <a href="#" class="aa-cart-view-btn">Thanh toán</a>
              </div>
            </div>
          </div>
@@ -141,3 +148,6 @@
       </div><!-- /.modal-content -->
     </div><!-- /.modal-dialog -->
   </div>    
+  </body>
+</html>
+  

@@ -5,6 +5,13 @@
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>Script Page</title>
+    </head>
+    <body>
         <!-- jQuery library -->
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
   <!-- Include all compiled plugins (below), or include individual files as needed -->
@@ -25,3 +32,6 @@
   <script type="text/javascript" src="./assets/js/nouislider.js"></script>
   <!-- Custom js -->
   <script src="./assets/js/custom.js"></script> 
+
+    </body>
+</html>
