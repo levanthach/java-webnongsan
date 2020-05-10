@@ -5,14 +5,6 @@
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
-<!DOCTYPE html>
-<html>
-    <head>
-        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>HomePage</title>
-    </head>
-  <body> 
-   
   <!-- Start header section -->
   <jsp:include page = "./header/mainHeader.jsp" flush = "true" />
   <!-- / header section -->
@@ -24,10 +16,10 @@
     <div class="aa-catg-head-banner-area">
      <div class="container">
       <div class="aa-catg-head-banner-content">
-        <h2>Account Page</h2>
+        <h2>Trang tài khoản</h2>
         <ol class="breadcrumb">
-          <li><a href="index.jsp.html">Home</a></li>                   
-          <li class="active">Account</li>
+          <li><a href="index.jsp">Trang chủ</a></li>                   
+          <li class="active">Tài khoản</li>
         </ol>
       </div>
      </div>
@@ -44,27 +36,27 @@
             <div class="row">
               <div class="col-md-6">
                 <div class="aa-myaccount-login">
-                <h4>Login</h4>
+                <h4>Đăng nhập</h4>
                  <form action="" class="aa-login-form">
-                  <label for="">Username or Email address<span>*</span></label>
+                  <label for="">Tên tài khoản hoặc Email<span>*</span></label>
                    <input type="text" placeholder="Username or email">
-                   <label for="">Password<span>*</span></label>
+                   <label for="">Mật khẩu<span>*</span></label>
                     <input type="password" placeholder="Password">
-                    <button type="submit" class="aa-browse-btn">Login</button>
+                    <button type="submit" class="aa-browse-btn">Đăng nhập</button>
                     <label class="rememberme" for="rememberme"><input type="checkbox" id="rememberme"> Remember me </label>
-                    <p class="aa-lost-password"><a href="#">Lost your password?</a></p>
+                    <p class="aa-lost-password"><a href="#">Quên mật khẩu?</a></p>
                   </form>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="aa-myaccount-register">                 
-                 <h4>Register</h4>
+                 <h4>Đăng ký</h4>
                  <form action="" class="aa-login-form">
-                    <label for="">Username or Email address<span>*</span></label>
+                    <label for="">Tên tài khoản hoặc Email<span>*</span></label>
                     <input type="text" placeholder="Username or email">
-                    <label for="">Password<span>*</span></label>
+                    <label for="">Mật khẩu<span>*</span></label>
                     <input type="password" placeholder="Password">
-                    <button type="submit" class="aa-browse-btn">Register</button>                    
+                    <button type="submit" class="aa-browse-btn">Đăng ký</button>                    
                   </form>
                 </div>
               </div>
@@ -106,6 +98,4 @@
       </div><!-- /.modal-content -->
     </div><!-- /.modal-dialog -->
   </div>    
-  </body>
-</html>
   

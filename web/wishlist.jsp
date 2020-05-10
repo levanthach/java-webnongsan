@@ -5,14 +5,7 @@
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
-<!DOCTYPE html>
-<html>
-    <head>
-        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>Sản phẩm yêu thích</title>
-    </head>
-  <body> 
-   
+
   <!-- Start header section -->
   <jsp:include page = "./header/mainHeader.jsp" flush = "true" />
   <!-- / header section -->
@@ -21,14 +14,14 @@
  
   <!-- catg header banner section -->
   <section id="aa-catg-head-banner">
-   <img src="assets/img/fashion/wishlist.jpg" alt="fashion img" width="1480" height="500">
+   <img src="assets/img/fashion/fashion-header-bg-8.jpg" alt="fashion img">
    <div class="aa-catg-head-banner-area">
      <div class="container">
       <div class="aa-catg-head-banner-content">
-        <h2>Sản phẩm yêu thích</h2>
+        <h2>Wishlist Page</h2>
         <ol class="breadcrumb">
-          <li><a href="index.jsp.html">Trang chủ</a></li>
-          <li class="active">Sản phẩm yêu thích</li>
+          <li><a href="index.jsp.html">Home</a></li>                   
+          <li class="active">Wishlist</li>
         </ol>
       </div>
      </div>
@@ -48,38 +41,38 @@
                   <table class="table">
                     <thead>
                       <tr>
-                        <th>Bỏ chọn</th>
-                        <th>Mô tả</th>
-                        <th>Sản phẩm</th>
-                        <th>Giá</th>
-                        <th>Trình trạng</th>
+                        <th></th>
+                        <th></th>
+                        <th>Product</th>
+                        <th>Price</th>
+                        <th>Stock Status</th>
                         <th></th>
                       </tr>
                     </thead>
                     <tbody>
                       <tr>
                         <td><a class="remove" href="#"><fa class="fa fa-close"></fa></a></td>
-                        <td><a href="#"><img src="assets/img/fashion/vitao.jpg" alt="img"></a></td>
-                        <td><a class="aa-cart-title" href="#">Vi tảo cao cấp</a></td>
+                        <td><a href="#"><img src="assets/img/man/polo-shirt-1.png" alt="img"></a></td>
+                        <td><a class="aa-cart-title" href="#">Polo T-Shirt</a></td>
                         <td>$250</td>
-                        <td>Còn hàng</td>
-                        <td><a href="#" class="aa-add-to-cart-btn">Thêm vào giỏ hàng</a></td>
+                        <td>In Stock</td>
+                        <td><a href="#" class="aa-add-to-cart-btn">Add To Cart</a></td>
                       </tr>
                       <tr>
                         <td><a class="remove" href="#"><fa class="fa fa-close"></fa></a></td>
-                        <td><a href="#"><img src="assets/img/fashion/mangtay.jpg" alt="img"></a></td>
-                        <td><a class="aa-cart-title" href="#">Măng tây</a></td>
-                        <td>$250</td>
-                        <td>Còn hàng</td>
-                        <td><a href="#" class="aa-add-to-cart-btn">Thêm vào giỏ hàng</a></td>
+                        <td><a href="#"><img src="assets/img/man/polo-shirt-2.png" alt="img"></a></td>
+                        <td><a class="aa-cart-title" href="#">Polo T-Shirt</a></td>
+                        <td>$150</td>
+                        <td>In Stock</td>
+                        <td><a href="#" class="aa-add-to-cart-btn">Add To Cart</a></td>
                       </tr>
                       <tr>
                         <td><a class="remove" href="#"><fa class="fa fa-close"></fa></a></td>
-                        <td><a href="#"><img src="assets/img/fashion/hatdieu.jpg" alt="img"></a></td>
-                        <td><a class="aa-cart-title" href="#">Hạt điều</a></td>
+                        <td><a href="#"><img src="assets/img/man/polo-shirt-3.png" alt="img"></a></td>
+                        <td><a class="aa-cart-title" href="#">Polo T-Shirt</a></td>
                         <td>$50</td>
-                        <td>Còn hàng</td>
-                        <td><a href="#" class="aa-add-to-cart-btn">Thêm vào giỏ hàng</a></td>
+                        <td>In Stock</td>
+                        <td><a href="#" class="aa-add-to-cart-btn">Add To Cart</a></td>
                       </tr>                     
                       </tbody>
                   </table>
@@ -122,6 +115,4 @@
       </div><!-- /.modal-content -->
     </div><!-- /.modal-dialog -->
   </div>    
-  </body>
-</html>
-  
+

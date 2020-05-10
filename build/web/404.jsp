@@ -5,14 +5,6 @@
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
-<!DOCTYPE html>
-<html>
-    <head>
-        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>HomePage</title>
-    </head>
-  <body> 
-   
   <!-- Start header section -->
   <jsp:include page = "./header/mainHeader.jsp" flush = "true" />
   <!-- / header section -->
@@ -26,8 +18,8 @@
           <div class="aa-error-area">
             <h2>404</h2>
             <span>Sorry! Page Not Found</span>
-            <p>Sorry this content has been moved Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum, amet perferendis, nemo facere excepturi quis.</p>
-            <a href="#"> Go to Homepage</a>
+            <p>Xin lỗi, nội dung này đã bị xóa hoặc không tồn tại. Vui lòng tìm kiếm lại!</p>
+            <a href="index.jsp"> Trở về trang chủ</a>
           </div>
         </div>
       </div>
@@ -64,6 +56,4 @@
       </div><!-- /.modal-content -->
     </div><!-- /.modal-dialog -->
   </div>    
-  </body>
-</html>
   
