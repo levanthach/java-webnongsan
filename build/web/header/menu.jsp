@@ -5,13 +5,6 @@
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
-<!DOCTYPE html>
-<html>
-    <head>
-        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>JSP Page</title>
-    </head>
-    <body>
         <section id="menu">
     <div class="container">
       <div class="menu-area">
@@ -28,118 +21,39 @@
           <div class="navbar-collapse collapse">
             <!-- Left nav -->
             <ul class="nav navbar-nav">
-              <li><a href="index.jsp.html">Home</a></li>
-              <li><a href="#">Men <span class="caret"></span></a>
+              <li><a href="index.jsp">TRANG CHỦ</a></li>
+              <li><a href="index.jsp">GIỚI THIỆU</a></li>
+              <li><a href="product.jsp">SẢN PHẨM<span class="caret"></span></a>
                 <ul class="dropdown-menu">                
-                  <li><a href="#">Casual</a></li>
-                  <li><a href="#">Sports</a></li>
-                  <li><a href="#">Formal</a></li>
-                  <li><a href="#">Standard</a></li>                                                
-                  <li><a href="#">T-Shirts</a></li>
-                  <li><a href="#">Shirts</a></li>
-                  <li><a href="#">Jeans</a></li>
-                  <li><a href="#">Trousers</a></li>
-                  <li><a href="#">And more.. <span class="caret"></span></a>
-                    <ul class="dropdown-menu">
-                      <li><a href="#">Sleep Wear</a></li>
-                      <li><a href="#">Sandals</a></li>
-                      <li><a href="#">Loafers</a></li>                                      
-                    </ul>
-                  </li>
+                  <li><a href="product.jsp">RAU CỦ QUẢ</a></li>
+                  <li><a href="product.jsp">CÁC LOẠI HẠT</a></li>
+                  <li><a href="product.jsp">TINH DẦU</a></li>
+                  <li><a href="product.jsp">MẬT ONG</a></li>
                 </ul>
               </li>
-              <li><a href="#">Women <span class="caret"></span></a>
-                <ul class="dropdown-menu">  
-                  <li><a href="#">Kurta & Kurti</a></li>                                                                
-                  <li><a href="#">Trousers</a></li>              
-                  <li><a href="#">Casual</a></li>
-                  <li><a href="#">Sports</a></li>
-                  <li><a href="#">Formal</a></li>                
-                  <li><a href="#">Sarees</a></li>
-                  <li><a href="#">Shoes</a></li>
-                  <li><a href="#">And more.. <span class="caret"></span></a>
-                    <ul class="dropdown-menu">
-                      <li><a href="#">Sleep Wear</a></li>
-                      <li><a href="#">Sandals</a></li>
-                      <li><a href="#">Loafers</a></li>
-                      <li><a href="#">And more.. <span class="caret"></span></a>
-                        <ul class="dropdown-menu">
-                          <li><a href="#">Rings</a></li>
-                          <li><a href="#">Earrings</a></li>
-                          <li><a href="#">Jewellery Sets</a></li>
-                          <li><a href="#">Lockets</a></li>
-                          <li class="disabled"><a class="disabled" href="#">Disabled item</a></li>                       
-                          <li><a href="#">Jeans</a></li>
-                          <li><a href="#">Polo T-Shirts</a></li>
-                          <li><a href="#">SKirts</a></li>
-                          <li><a href="#">Jackets</a></li>
-                          <li><a href="#">Tops</a></li>
-                          <li><a href="#">Make Up</a></li>
-                          <li><a href="#">Hair Care</a></li>
-                          <li><a href="#">Perfumes</a></li>
-                          <li><a href="#">Skin Care</a></li>
-                          <li><a href="#">Hand Bags</a></li>
-                          <li><a href="#">Single Bags</a></li>
-                          <li><a href="#">Travel Bags</a></li>
-                          <li><a href="#">Wallets & Belts</a></li>                        
-                          <li><a href="#">Sunglases</a></li>
-                          <li><a href="#">Nail</a></li>                       
-                        </ul>
-                      </li>                   
-                    </ul>
-                  </li>
-                </ul>
-              </li>
-              <li><a href="#">Kids <span class="caret"></span></a>
-                <ul class="dropdown-menu">                
-                  <li><a href="#">Casual</a></li>
-                  <li><a href="#">Sports</a></li>
-                  <li><a href="#">Formal</a></li>
-                  <li><a href="#">Standard</a></li>                                                
-                  <li><a href="#">T-Shirts</a></li>
-                  <li><a href="#">Shirts</a></li>
-                  <li><a href="#">Jeans</a></li>
-                  <li><a href="#">Trousers</a></li>
-                  <li><a href="#">And more.. <span class="caret"></span></a>
-                    <ul class="dropdown-menu">
-                      <li><a href="#">Sleep Wear</a></li>
-                      <li><a href="#">Sandals</a></li>
-                      <li><a href="#">Loafers</a></li>                                      
-                    </ul>
-                  </li>
-                </ul>
-              </li>
-              <li><a href="#">Sports</a></li>
-             <li><a href="#">Digital <span class="caret"></span></a>
-                <ul class="dropdown-menu">                
-                  <li><a href="#">Camera</a></li>
-                  <li><a href="#">Mobile</a></li>
-                  <li><a href="#">Tablet</a></li>
-                  <li><a href="#">Laptop</a></li>                                                
-                  <li><a href="#">Accesories</a></li>                
-                </ul>
-              </li>
-              <li><a href="#">Furniture</a></li>            
-              <li><a href="blog-archive.html">Blog <span class="caret"></span></a>
-                <ul class="dropdown-menu">                
-                  <li><a href="blog-archive.html">Blog Style 1</a></li>
-                  <li><a href="blog-archive-2.html">Blog Style 2</a></li>
-                  <li><a href="blog-single.html">Blog Single</a></li>                
-                </ul>
-              </li>
-              <li><a href="contact.html">Contact</a></li>
-              <li><a href="#">Pages <span class="caret"></span></a>
-                <ul class="dropdown-menu">                
-                  <li><a href="product.html">Shop Page</a></li>
-                  <li><a href="product-detail.html">Shop Single</a></li>                
-                  <li><a href="404.html">404 Page</a></li>                
-                </ul>
-              </li>
+              <li><a href="blog-archive.jsp">TIN TỨC</a></li>
+              <li><a href="checkout.jsp">ĐẶT HÀNG</a></li>
+              <li><a href="contact.jsp">LIÊN HỆ</a></li>
+              <li class="aa-search"><!-- search box -->
+              <a class="aa-search-box">
+                <form action="">
+                  <input type="text" name="" id="" placeholder="Bạn cần tìm gì? ">
+                  <a href="index.jsp" style="border: medium none;
+                    color: #fff;
+                    height: 100%;
+                    position: absolute;
+                    right: 5px;
+                    top: 0px;
+                    width: 50px;
+                    transition: all 0.5s;"><span class="fa fa-search"></span></a>
+                </form>
+              </a>
+              <!-- / search box -->
+             </li>
             </ul>
           </div><!--/.nav-collapse -->
+          
         </div>
       </div>       
     </div>
   </section>
-    </body>
-</html>

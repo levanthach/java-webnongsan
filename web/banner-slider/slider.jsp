@@ -5,13 +5,6 @@
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
-<!DOCTYPE html>
-<html>
-    <head>
-        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>Slider Page</title>
-    </head>
-    <body>
        <section id="aa-slider">
     <div class="aa-slider-area">
       <div id="sequence" class="seq">
@@ -20,61 +13,50 @@
             <!-- single slide item -->
             <li>
               <div class="seq-model">
-                <img data-seq src="assets/img/slider/1.jpg" alt="Men slide img" />
+                <img data-seq src="assets/images/slide_1.jpg" alt="Men slide img" />
               </div>
               <div class="seq-title">
-               <span data-seq>Save Up to 75% Off</span>                
-                <h2 data-seq>Men Collection</h2>                
-                <p data-seq>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minus, illum.</p>
-                <a data-seq href="#" class="aa-shop-now-btn aa-secondary-btn">SHOP NOW</a>
+               <span data-seq>Giảm giá lên đến 50%</span>                
+                <h2 data-seq>Các Loại Hạt Bổ Dưỡng</h2>                
+                <p data-seq>Các loại hạt tại của hàng luôn luôn được tuyển chọn,và các mặt hàng luôn đảm bảo chất lượng.</p>
+                <a data-seq href="#" class="aa-shop-now-btn aa-secondary-btn">Xem Sản Phẩm</a>
               </div>
             </li>
             <!-- single slide item -->
             <li>
               <div class="seq-model">
-                <img data-seq src="assets/img/slider/2.jpg" alt="Wristwatch slide img" />
+                <img data-seq src="assets/images/slide_2.jpg" alt="Wristwatch slide img" />
               </div>
               <div class="seq-title">
-                <span data-seq>Save Up to 40% Off</span>                
-                <h2 data-seq>Wristwatch Collection</h2>                
-                <p data-seq>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minus, illum.</p>
-                <a data-seq href="#" class="aa-shop-now-btn aa-secondary-btn">SHOP NOW</a>
+                <span data-seq>Giảm giá lên đến 20%</span>                
+                <h2 data-seq>Rau Củ Quả Xanh Sạch</h2>                
+                <p data-seq>Rau củ quả được trồng đảm bảo không thuốc hóa học , đảm bảo chất lương xanh sạch và an toàn.</p>
+                <a data-seq href="#" class="aa-shop-now-btn aa-secondary-btn">Xem Sản Phẩm</a>
               </div>
             </li>
             <!-- single slide item -->
             <li>
               <div class="seq-model">
-                <img data-seq src="assets/img/slider/3.jpg" alt="Women Jeans slide img" />
+                <img data-seq src="assets/images/slide_3.jpg" alt="Women Jeans slide img" />
               </div>
               <div class="seq-title">
-                <span data-seq>Save Up to 75% Off</span>                
-                <h2 data-seq>Jeans Collection</h2>                
-                <p data-seq>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minus, illum.</p>
-                <a data-seq href="#" class="aa-shop-now-btn aa-secondary-btn">SHOP NOW</a>
+                <span data-seq>Giảm giá lên đến 33%</span>                
+                <h2 data-seq>Trái Cây Ngon Ngọt</h2>                
+                <p data-seq>Trái cây tại cửa hàng đa dạng về loại hàng, luôn luôn đảm bảo tính an toàn và chất lượng lên hàng đầu.</p>
+                <a data-seq href="#" class="aa-shop-now-btn aa-secondary-btn">Xem Sản Phẩm</a>
               </div>
             </li>
             <!-- single slide item -->           
             <li>
               <div class="seq-model">
-                <img data-seq src="assets/img/slider/4.jpg" alt="Shoes slide img" />
+                <img data-seq src="assets/images/slide_4.jpg" alt="Shoes slide img" />
               </div>
               <div class="seq-title">
-                <span data-seq>Save Up to 75% Off</span>                
-                <h2 data-seq>Exclusive Shoes</h2>                
-                <p data-seq>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minus, illum.</p>
-                <a data-seq href="#" class="aa-shop-now-btn aa-secondary-btn">SHOP NOW</a>
-              </div>
-            </li>
-            <!-- single slide item -->  
-             <li>
-              <div class="seq-model">
-                <img data-seq src="assets/img/slider/5.jpg" alt="Male Female slide img" />
-              </div>
-              <div class="seq-title">
-                <span data-seq>Save Up to 50% Off</span>                
-                <h2 data-seq>Best Collection</h2>                
-                <p data-seq>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minus, illum.</p>
-                <a data-seq href="#" class="aa-shop-now-btn aa-secondary-btn">SHOP NOW</a>
+                <span data-seq>Giảm giá lên đến 25%</span>                
+                <h2 data-seq>Mật Ong Và Tinh Dầu</h2>                
+                <p data-seq>Mật ong và tinh dầu là 2 sản phẩm mới bên cửa hàng của chúng tôi,sản phẩm đã được kiểm định
+                và cấp phép về tinh an toàn.</p>
+                <a data-seq href="#" class="aa-shop-now-btn aa-secondary-btn">Xem Sản Phẩm</a>
               </div>
             </li>                   
           </ul>
@@ -87,5 +69,3 @@
       </div>
     </div>
   </section>
-    </body>
-</html>

@@ -6,49 +6,6 @@
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">    
-    <title>Daily Shop | Home</title>
-    
-    <!-- Font awesome -->
-    <link href="./assets/css/font-awesome.css" rel="stylesheet">
-    <!-- Bootstrap -->
-    <link href="./assets/css/bootstrap.css" rel="stylesheet">   
-    <!-- SmartMenus jQuery Bootstrap Addon CSS -->
-    <link href="./assets/css/jquery.smartmenus.bootstrap.css" rel="stylesheet">
-    <!-- Product view slider -->
-    <link rel="stylesheet" type="text/css" href="./assets/css/jquery.simpleLens.css">    
-    <!-- slick slider -->
-    <link rel="stylesheet" type="text/css" href="./assets/css/slick.css">
-    <!-- price picker slider -->
-    <link rel="stylesheet" type="text/css" href="./assets/css/nouislider.css">
-    <!-- Theme color -->
-    <link id="switcher" href="./assets/css/theme-color/default-theme.css" rel="stylesheet">
-    <!-- <link id="switcher" href="./assets/css/theme-color/bridge-theme.css" rel="stylesheet"> -->
-    <!-- Top Slider CSS -->
-    <link href="./assets/css/sequence-theme.modern-slide-in.css" rel="stylesheet" media="all">
-
-    <!-- Main style sheet -->
-    <link href="./assets/css/style.css" rel="stylesheet">    
-
-    <!-- Google Font -->
-    <link href='https://fonts.googleapis.com/css?family=Lato' rel='stylesheet' type='text/css'>
-    <link href='https://fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
-    
-
-    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-    <!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-    <![endif]-->
-  
-  </head>
-    <body>
          <!-- start header top  -->
     <div class="aa-header-top">
       <div class="container">
@@ -57,6 +14,9 @@
             <div class="aa-header-top-area">
               <!-- start header top left -->
               <div class="aa-header-top-left">
+                <div class="cellphone hidden-xs">
+                  <p><span class="fas fa-home"></span>Website bán hàng nông sản</p>
+                </div>
                 <!-- start language -->
                 <div class="aa-language">
                   <div class="dropdown">
@@ -73,19 +33,19 @@
                 <!-- / language -->
 
                 <!-- start cellphone -->
-                <div class="cellphone hidden-xs">
+<!--                <div class="cellphone hidden-xs">
                   <p><span class="fa fa-phone"></span>00-62-658-658</p>
-                </div>
+                </div>-->
                 <!-- / cellphone -->
               </div>
               <!-- / header top left -->
               <div class="aa-header-top-right">
                 <ul class="aa-head-top-nav-right">
-                  <li><a href="account.html">My Account</a></li>
-                  <li class="hidden-xs"><a href="wishlist.html">Wishlist</a></li>
-                  <li class="hidden-xs"><a href="cart.html">My Cart</a></li>
-                  <li class="hidden-xs"><a href="checkout.html">Checkout</a></li>
-                  <li><a href="" data-toggle="modal" data-target="#login-modal">Login</a></li>
+                  <li><a href="account.jsp">Tài khoản</a></li>
+                  <li class="hidden-xs"><a href="wishlist.jsp">Wishlist</a></li>
+                  <li class="hidden-xs"><a href="cart.jsp">Giỏ hàng</a></li>
+                  <li class="hidden-xs"><a href="checkout.jsp">Thanh toán</a></li>
+                  <li><a href="" data-toggle="modal" data-target="#login-modal">Đăng nhập</a></li>
                 </ul>
               </div>
             </div>
@@ -94,6 +54,3 @@
       </div>
     </div>
     <!-- / header top  -->
-    
-    </body>
-</html>
