@@ -25,11 +25,12 @@
                   <p>daily<strong>Shop</strong> <span>Your Shopping Partner</span></p>
                 </a>
                 <!-- img based logo -->
-<<<<<<< HEAD
-                <!-- <a href="index.html"><img src="assets/img/logo.jpg" alt="logo img"></a> -->
-=======
+
                 <a href="index.jsp"><img src="./assets/images/logo.jpg" alt="logo img" width="100%"></a> 
->>>>>>> lan_dev
+
+                <!-- <a href="index.html"><img src="assets/img/logo.jpg" alt="logo img"></a> -->
+                <a href="index.jsp"><img src="./assets/images/logo.jpg" alt="logo img" width="100%"></a> 
+
               </div>
               <!-- / logo  -->
               <!-- Shipping service -->
