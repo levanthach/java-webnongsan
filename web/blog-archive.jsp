@@ -5,6 +5,13 @@
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>Bài đăng</title>
+    </head>
+  <body> 
    
   <!-- Start header section -->
   <jsp:include page = "./header/mainHeader.jsp" flush = "true" />
@@ -13,14 +20,14 @@
 <!--  content -->
   <!-- catg header banner section -->
   <section id="aa-catg-head-banner">
-   <img src="assets/img/fashion/fashion-header-bg-8.jpg" alt="fashion img">
+   <img src="assets/img/fashion/blog.jpg" alt="farm products img" width="1480" height="500">
    <div class="aa-catg-head-banner-area">
      <div class="container">
       <div class="aa-catg-head-banner-content">
-        <h2>Blog Archive</h2>
+        <h2>Bài đăng</h2>
         <ol class="breadcrumb">
-          <li><a href="index.jsp.html">Home</a></li>         
-          <li class="active">Blog Archive</li>
+          <li><a href="index.jsp.html">Trang chủ</a></li>
+          <li class="active">Bài đăng</li>
         </ol>
       </div>
      </div>
@@ -40,153 +47,102 @@
                   <div class="row">
                     <div class="col-md-4 col-sm-4">
                       <article class="aa-blog-content-single">                        
-                        <h4><a href="#">Lorem ipsum dolor sit amet.</a></h4>
+                        <h4><a href="#">Các loại nông sản.</a></h4>
                         <figure class="aa-blog-img">
-                          <a href="#"><img src="assets/img/fashion/3.jpg" alt="fashion img"></a>
+                          <a href="#"><img src="assets/img/fashion/12.jpg" alt="farm products" height="180px" width="300px"></a>
                         </figure>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates voluptatum accusamus dolorum ipsam adipisci laudantium laborum ipsa excepturi soluta, dolore similique, velit id, rerum repudiandae enim modi! Quo, debitis, in.</p>
+                        <p>Nhóm nông sản chủ lực của vùng Đông Bắc là chè, lúa gạo, ngô, khoai, cam quít, vải, nhãn, quế, hồi….</p>
                         <div class="aa-article-bottom">
                           <div class="aa-post-author">
-                            Posted By <a href="#">Jackson</a>
+                            Đăng bởi <a href="#">Thịnh Dương</a>
                           </div>
                           <div class="aa-post-date">
-                            March 26th 2016
+                            May 9th 2020
                           </div>
                         </div>
                       </article>
                     </div>
                     <div class="col-md-4 col-sm-4">
                       <article class="aa-blog-content-single">                        
-                        <h4><a href="#">Lorem ipsum dolor sit amet.</a></h4>
+                        <h4><a href="#">Nông sản là gì ?</a></h4>
                         <figure class="aa-blog-img">
-                          <a href="#"><img src="assets/img/fashion/2.jpg" alt="fashion img"></a>
+                          <a href="#"><img src="assets/img/fashion/11.jpg" alt="farm products img"></a>
                         </figure>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates voluptatum accusamus dolorum ipsam adipisci laudantium laborum ipsa excepturi soluta, dolore similique, velit id, rerum repudiandae enim modi! Quo, debitis, in.</p>
+                        <p>Nông sản là những sản phẩm hoặc bán thành phẩm của ngành sản xuất hàng hóa thông qua gây trồng và phát triển của cây trồng...</p>
                         <div class="aa-article-bottom">
                           <div class="aa-post-author">
-                            Posted By <a href="#">Jackson</a>
+                            Đăng bởi <a href="#">Thịnh Dương</a>
                           </div>
                           <div class="aa-post-date">
-                            March 26th 2016
+                           May 9th 2020
                           </div>
                         </div>
                       </article>
                     </div>
                     <div class="col-md-4 col-sm-4">
                       <article class="aa-blog-content-single">                        
-                        <h4><a href="#">Lorem ipsum dolor sit amet.</a></h4>
+                        <h4><a href="#">6 loại trái cây tốt nhất cho sức khỏe.</a></h4>
                         <figure class="aa-blog-img">
-                          <a href="#"><img src="assets/img/fashion/1.jpg" alt="fashion img"></a>
+                          <a href="#"><img src="assets/img/fashion/13.jpg" alt="farm products"></a>
                         </figure>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates voluptatum accusamus dolorum ipsam adipisci laudantium laborum ipsa excepturi soluta, dolore similique, velit id, rerum repudiandae enim modi! Quo, debitis, in.</p>
+                        <p>Cherry được ví như kim cương của các loại trái cây. Trong đó được chia ra thành nhiều loại như :việt quất ...</p>
                         <div class="aa-article-bottom">
                           <div class="aa-post-author">
-                            Posted By <a href="#">Jackson</a>
+                            Đăng bởi <a href="#">Thịnh Dương</a>
                           </div>
                           <div class="aa-post-date">
-                            March 26th 2016
+                            May 9th 2020
                           </div>
                         </div>
                       </article>
                     </div>
                     <div class="col-md-4 col-sm-4">
                       <article class="aa-blog-content-single">                        
-                        <h4><a href="#">Lorem ipsum dolor sit amet.</a></h4>
+                        <h4><a href="#">Sức ảnh hưởng tới kinh tế.</a></h4>
                         <figure class="aa-blog-img">
-                          <a href="#"><img src="assets/img/fashion/3.jpg" alt="fashion img"></a>
+                          <a href="#"><img src="assets/img/fashion/14.jpg" alt="farm products and economy"></a>
                         </figure>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates voluptatum accusamus dolorum ipsam adipisci laudantium laborum ipsa excepturi soluta, dolore similique, velit id, rerum repudiandae enim modi! Quo, debitis, in.</p>
+                        <p>Thương mại hóa nông sản là bước đầu tiên để vươn ra thị trường thế giới rộng lớn. Xuất khẩu hàng nông sản đã chiếm đến hơn 10 tỉ...</p>
                         <div class="aa-article-bottom">
                           <div class="aa-post-author">
-                            Posted By <a href="#">Jackson</a>
+                            Đăng bởi <a href="#">Thịnh Dương</a>
                           </div>
                           <div class="aa-post-date">
-                            March 26th 2016
+                            May 9th 2020
                           </div>
                         </div>
                       </article>
                     </div>
                     <div class="col-md-4 col-sm-4">
                       <article class="aa-blog-content-single">                        
-                        <h4><a href="#">Lorem ipsum dolor sit amet.</a></h4>
+                        <h4><a href="#">Sản phẩm hữu cơ hot nhất.</a></h4>
                         <figure class="aa-blog-img">
-                          <a href="#"><img src="assets/img/fashion/2.jpg" alt="fashion img"></a>
+                          <a href="#"><img src="assets/img/fashion/15.jpg" alt="organic food img"></a>
                         </figure>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates voluptatum accusamus dolorum ipsam adipisci laudantium laborum ipsa excepturi soluta, dolore similique, velit id, rerum repudiandae enim modi! Quo, debitis, in.</p>
+                        <p>Xu hướng sử dụng các sản phẩm hữu cơ từ thiên nhiên đang ngày càng phổ biến trong xã hội hiện đại. Nhắc đến organic, bạn nhất định không thể không biết những cái tên đang “làm mưa làm gió”...</p>
                         <div class="aa-article-bottom">
                           <div class="aa-post-author">
-                            Posted By <a href="#">Jackson</a>
+                           Đăng bởi <a href="#">Thịnh Dương</a>
                           </div>
                           <div class="aa-post-date">
-                            March 26th 2016
+                            May 9th 2020
                           </div>
                         </div>
                       </article>
                     </div>
                     <div class="col-md-4 col-sm-4">
                       <article class="aa-blog-content-single">                        
-                        <h4><a href="#">Lorem ipsum dolor sit amet.</a></h4>
+                        <h4><a href="#">Cách bảo quản nông sản.</a></h4>
                         <figure class="aa-blog-img">
-                          <a href="#"><img src="assets/img/fashion/1.jpg" alt="fashion img"></a>
+                          <a href="#"><img src="assets/img/fashion/16.jpg" alt="fashion img"></a>
                         </figure>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates voluptatum accusamus dolorum ipsam adipisci laudantium laborum ipsa excepturi soluta, dolore similique, velit id, rerum repudiandae enim modi! Quo, debitis, in.</p>
+                        <p>Bảo quản nông sản là các phương pháp hay quy trình giúp nông sản đảm bảo được chất lượng và hàm lượng dinh dưỡng bên trong.Nông sản sau khi thu hoạch sẽ chịu nhiều tác động từ môi trường. Các yếu tố như nhiệt độ,..</p>
                         <div class="aa-article-bottom">
                           <div class="aa-post-author">
-                            Posted By <a href="#">Jackson</a>
+                            Đăng bởi <a href="#">Thịnh Dương</a>
                           </div>
                           <div class="aa-post-date">
-                            March 26th 2016
-                          </div>
-                        </div>
-                      </article>
-                    </div>
-                    <div class="col-md-4 col-sm-4">
-                      <article class="aa-blog-content-single">                        
-                        <h4><a href="#">Lorem ipsum dolor sit amet.</a></h4>
-                        <figure class="aa-blog-img">
-                          <a href="#"><img src="assets/img/fashion/3.jpg" alt="fashion img"></a>
-                        </figure>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates voluptatum accusamus dolorum ipsam adipisci laudantium laborum ipsa excepturi soluta, dolore similique, velit id, rerum repudiandae enim modi! Quo, debitis, in.</p>
-                        <div class="aa-article-bottom">
-                          <div class="aa-post-author">
-                            Posted By <a href="#">Jackson</a>
-                          </div>
-                          <div class="aa-post-date">
-                            March 26th 2016
-                          </div>
-                        </div>
-                      </article>
-                    </div>
-                    <div class="col-md-4 col-sm-4">
-                      <article class="aa-blog-content-single">                        
-                        <h4><a href="#">Lorem ipsum dolor sit amet.</a></h4>
-                        <figure class="aa-blog-img">
-                          <a href="#"><img src="assets/img/fashion/2.jpg" alt="fashion img"></a>
-                        </figure>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates voluptatum accusamus dolorum ipsam adipisci laudantium laborum ipsa excepturi soluta, dolore similique, velit id, rerum repudiandae enim modi! Quo, debitis, in.</p>
-                        <div class="aa-article-bottom">
-                          <div class="aa-post-author">
-                            Posted By <a href="#">Jackson</a>
-                          </div>
-                          <div class="aa-post-date">
-                            March 26th 2016
-                          </div>
-                        </div>
-                      </article>
-                    </div>
-                    <div class="col-md-4 col-sm-4">
-                      <article class="aa-blog-content-single">                        
-                        <h4><a href="#">Lorem ipsum dolor sit amet.</a></h4>
-                        <figure class="aa-blog-img">
-                          <a href="#"><img src="assets/img/fashion/1.jpg" alt="fashion img"></a>
-                        </figure>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates voluptatum accusamus dolorum ipsam adipisci laudantium laborum ipsa excepturi soluta, dolore similique, velit id, rerum repudiandae enim modi! Quo, debitis, in.</p>
-                        <div class="aa-article-bottom">
-                          <div class="aa-post-author">
-                            Posted By <a href="#">Jackson</a>
-                          </div>
-                          <div class="aa-post-date">
-                            March 26th 2016
+                            May 9th 2020
                           </div>
                         </div>
                       </article>
@@ -220,7 +176,7 @@
               <div class="col-md-3">
                 <aside class="aa-blog-sidebar">
                   <div class="aa-sidebar-widget">
-                    <h3>Category</h3>
+                    <h3>Danh mục</h3>
                     <ul class="aa-catg-nav">
                       <li><a href="#">Men</a></li>
                       <li><a href="">Women</a></li>
@@ -232,47 +188,17 @@
                   <div class="aa-sidebar-widget">
                     <h3>Tags</h3>
                     <div class="tag-cloud">
-                      <a href="#">Fashion</a>
-                      <a href="#">Ecommerce</a>
-                      <a href="#">Shop</a>
-                      <a href="#">Hand Bag</a>
-                      <a href="#">Laptop</a>
-                      <a href="#">Head Phone</a>
-                      <a href="#">Pen Drive</a>
+                      <a href="#">Nông sản</a>
+                      <a href="#">Hàng hóa</a>
+                      <a href="#">Cửa hàng</a>
+                      <a href="#">Nông nghiệp</a>
+                      <a href="#">Bảo quản</a>
+                      <a href="#">Hữu cơ</a>
                     </div>
-                  </div>
-                  <div class="aa-sidebar-widget">
-                    <h3>Recent Post</h3>
-                    <div class="aa-recently-views">
-                      <ul>
-                        <li>
-                          <a class="aa-cartbox-img" href="#"><img src="assets/img/woman-small-2.jpg" alt="img"></a>
-                          <div class="aa-cartbox-info">
-                            <h4><a href="#">Lorem ipsum dolor sit amet.</a></h4>
-                            <p>March 26th 2016</p>
-                          </div>                    
-                        </li>
-                        <li>
-                          <a class="aa-cartbox-img" href="#"><img src="assets/img/woman-small-1.jpg" alt="img"></a>
-                          <div class="aa-cartbox-info">
-                            <h4><a href="#">Lorem ipsum dolor.</a></h4>
-                            <p>March 26th 2016</p>
-                          </div>                    
-                        </li>
-                         <li>
-                          <a class="aa-cartbox-img" href="#"><img src="assets/img/woman-small-2.jpg" alt="img"></a>
-                          <div class="aa-cartbox-info">
-                            <h4><a href="#">Lorem ipsum dolor.</a></h4>
-                            <p>March 26th 2016</p>
-                          </div>                    
-                        </li>                                      
-                      </ul>
-                    </div>                            
                   </div>
                 </aside>
               </div>
             </div>
-           
           </div>
         </div>
       </div>
@@ -281,7 +207,13 @@
   <!-- / Blog Archive -->
 
 <!--  end content-->
-   <!-- Login Modal -->  
+  
+<!--  footer-->
+ <jsp:include page = "./footer/footer.jsp" flush = "true" />
+<!-- end footer-->
+  
+
+  <!-- Login Modal -->  
   <div class="modal fade" id="login-modal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
     <div class="modal-dialog">
       <div class="modal-content">                      
@@ -304,10 +236,6 @@
       </div><!-- /.modal-content -->
     </div><!-- /.modal-dialog -->
   </div>    
-<!--  footer-->
- <jsp:include page = "./footer/footer.jsp" flush = "true" />
-<!-- end footer-->
-  
-
- 
+  </body>
+</html>
   

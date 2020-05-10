@@ -5,6 +5,14 @@
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>HomePage</title>
+    </head>
+  <body> 
+   
   <!-- Start header section -->
   <jsp:include page = "./header/mainHeader.jsp" flush = "true" />
   <!-- / header section -->
@@ -16,10 +24,10 @@
    <div class="aa-catg-head-banner-area">
      <div class="container">
       <div class="aa-catg-head-banner-content">
-        <h2>Mặt hàng</h2>
+        <h2>Fashion</h2>
         <ol class="breadcrumb">
-          <li><a href="index.jsp">Trang chủ</a></li>         
-          <li class="active">Mặt hàng</li>
+          <li><a href="index.jsp.html">Home</a></li>         
+          <li class="active">Women</li>
         </ol>
       </div>
      </div>
@@ -36,16 +44,16 @@
             <div class="aa-product-catg-head">
               <div class="aa-product-catg-head-left">
                 <form action="" class="aa-sort-form">
-                  <label for="">Sắp xếp theo</label>
+                  <label for="">Sort by</label>
                   <select name="">
-                    <option value="1" selected="Default">Mặc định</option>
-                    <option value="2">Tên</option>
-                    <option value="3">Giá cả</option>
-                    <option value="4">Ngày tháng</option>
+                    <option value="1" selected="Default">Default</option>
+                    <option value="2">Name</option>
+                    <option value="3">Price</option>
+                    <option value="4">Date</option>
                   </select>
                 </form>
                 <form action="" class="aa-show-form">
-                  <label for="">Hiển thị</label>
+                  <label for="">Show</label>
                   <select name="">
                     <option value="1" selected="12">12</option>
                     <option value="2">24</option>
@@ -64,10 +72,10 @@
                 <li>
                   <figure>
                     <a class="aa-product-img" href="#"><img src="assets/img/women/girl-1.png" alt="polo shirt img"></a>
-                    <a class="aa-add-card-btn"href="#"><span class="fa fa-shopping-cart"></span>Thêm vào giỏ hàng</a>
+                    <a class="aa-add-card-btn"href="#"><span class="fa fa-shopping-cart"></span>Add To Cart</a>
                     <figcaption>
-                      <h4 class="aa-product-title"><a href="#">Hạt điều</a></h4>
-                      <span class="aa-product-price">500.000<sup><u>đ</u></sup></span><span class="aa-product-price"><del>800.000<sup><u>đ</u></sup></del></span>
+                      <h4 class="aa-product-title"><a href="#">This is Title</a></h4>
+                      <span class="aa-product-price">$45.50</span><span class="aa-product-price"><del>$65.50</del></span>
                       <p class="aa-product-descrip">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Numquam accusamus facere iusto, autem soluta amet sapiente ratione inventore nesciunt a, maxime quasi consectetur, rerum illum.</p>
                     </figcaption>
                   </figure>                         
@@ -83,10 +91,10 @@
                 <li>
                   <figure>
                     <a class="aa-product-img" href="#"><img src="assets/img/women/girl-2.png" alt="polo shirt img"></a>
-                    <a class="aa-add-card-btn"href="#"><span class="fa fa-shopping-cart"></span>Thêm vào giỏ hàng</a>
+                    <a class="aa-add-card-btn"href="#"><span class="fa fa-shopping-cart"></span>Add To Cart</a>
                     <figcaption>
-                      <h4 class="aa-product-title"><a href="#">Tinh dầu</a></h4>
-                      <span class="aa-product-price">300.000<sup><u>đ</u></sup></span>
+                      <h4 class="aa-product-title"><a href="#">Lorem ipsum doller</a></h4>
+                      <span class="aa-product-price">$45.50</span>
                        <p class="aa-product-descrip">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Numquam accusamus facere iusto, autem soluta amet sapiente ratione inventore nesciunt a, maxime quasi consectetur, rerum illum.</p>
                     </figcaption>
                   </figure>                         
@@ -101,11 +109,11 @@
                 <!-- start single product item -->
                 <li>
                   <figure>
-                    <a class="aa-product-img" href="product-detail.jsp"><img src="assets/img/women/girl-3.png" alt="polo shirt img"></a>
-                    <a class="aa-add-card-btn"href="#"><span class="fa fa-shopping-cart"></span>Thêm vào giỏ hàng</a>
+                    <a class="aa-product-img" href="#"><img src="assets/img/women/girl-3.png" alt="polo shirt img"></a>
+                    <a class="aa-add-card-btn"href="#"><span class="fa fa-shopping-cart"></span>Add To Cart</a>
                     <figcaption>
-                      <h4 class="aa-product-title"><a href="product-detail.jsp">Quả óc chó</a></h4>
-                      <span class="aa-product-price">$45.50</span><span class="aa-product-price"><del>550.000<sup><u>đ</u></sup></del></span>
+                      <h4 class="aa-product-title"><a href="#">Lorem ipsum doller</a></h4>
+                      <span class="aa-product-price">$45.50</span><span class="aa-product-price"><del>$65.50</del></span>
                        <p class="aa-product-descrip">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Numquam accusamus facere iusto, autem soluta amet sapiente ratione inventore nesciunt a, maxime quasi consectetur, rerum illum.</p>
                     </figcaption>
                   </figure>                         
@@ -426,29 +434,31 @@
           <aside class="aa-sidebar">
             <!-- single sidebar -->
             <div class="aa-sidebar-widget">
-              <h3>Danh mục</h3>
+              <h3>Category</h3>
               <ul class="aa-catg-nav">
-                <li><a href="#">Các loại hạt</a></li>
-                <li><a href="">Rau củ quả</a></li>
-                <li><a href="">Tinh dầu</a></li>
-                <li><a href="">Mật ong</a></li>
+                <li><a href="#">Men</a></li>
+                <li><a href="">Women</a></li>
+                <li><a href="">Kids</a></li>
+                <li><a href="">Electornics</a></li>
+                <li><a href="">Sports</a></li>
               </ul>
             </div>
             <!-- single sidebar -->
             <div class="aa-sidebar-widget">
-              <h3>Thẻ</h3>
+              <h3>Tags</h3>
               <div class="tag-cloud">
-                <a href="product-detail.jsp">Quả óc chó</a>
-                <a href="#">Tinh dầu</a>
-                <a href="#">Mật ong</a>
-                <a href="#">Rau cải</a>
-                <a href="#">Mật ong rừng</a>
-                <a href="#">Tinh dầu bưởi</a>
+                <a href="#">Fashion</a>
+                <a href="#">Ecommerce</a>
+                <a href="#">Shop</a>
+                <a href="#">Hand Bag</a>
+                <a href="#">Laptop</a>
+                <a href="#">Head Phone</a>
+                <a href="#">Pen Drive</a>
               </div>
             </div>
             <!-- single sidebar -->
             <div class="aa-sidebar-widget">
-              <h3>Sắp xếp theo giá</h3>              
+              <h3>Shop By Price</h3>              
               <!-- price range -->
               <div class="aa-sidebar-price-range">
                <form action="">
@@ -456,35 +466,53 @@
                   </div>
                   <span id="skip-value-lower" class="example-val">30.00</span>
                  <span id="skip-value-upper" class="example-val">100.00</span>
-                 <button class="aa-filter-btn" type="submit">Lọc</button>
+                 <button class="aa-filter-btn" type="submit">Filter</button>
                </form>
               </div>              
 
             </div>
             <!-- single sidebar -->
             <div class="aa-sidebar-widget">
-              <h3>Lượt xem gần đây</h3>
+              <h3>Shop By Color</h3>
+              <div class="aa-color-tag">
+                <a class="aa-color-green" href="#"></a>
+                <a class="aa-color-yellow" href="#"></a>
+                <a class="aa-color-pink" href="#"></a>
+                <a class="aa-color-purple" href="#"></a>
+                <a class="aa-color-blue" href="#"></a>
+                <a class="aa-color-orange" href="#"></a>
+                <a class="aa-color-gray" href="#"></a>
+                <a class="aa-color-black" href="#"></a>
+                <a class="aa-color-white" href="#"></a>
+                <a class="aa-color-cyan" href="#"></a>
+                <a class="aa-color-olive" href="#"></a>
+                <a class="aa-color-orchid" href="#"></a>
+              </div>                            
+            </div>
+            <!-- single sidebar -->
+            <div class="aa-sidebar-widget">
+              <h3>Recently Views</h3>
               <div class="aa-recently-views">
                 <ul>
                   <li>
-                    <a href="product-detail.jsp" class="aa-cartbox-img"><img alt="img" src="assets/img/woman-small-2.jpg"></a>
+                    <a href="#" class="aa-cartbox-img"><img alt="img" src="assets/img/woman-small-2.jpg"></a>
                     <div class="aa-cartbox-info">
-                      <h4><a href="product-detail.jsp">Quả óc chó</a></h4>
-                      <p>1 x 550.000<sup><u>đ</u></sup></p>
+                      <h4><a href="#">Product Name</a></h4>
+                      <p>1 x $250</p>
                     </div>                    
                   </li>
                   <li>
                     <a href="#" class="aa-cartbox-img"><img alt="img" src="assets/img/woman-small-1.jpg"></a>
                     <div class="aa-cartbox-info">
-                      <h4><a href="#">Tinh dầu</a></h4>
-                      <p>1 x 300.000<sup><u>đ</u></sup></p>
+                      <h4><a href="#">Product Name</a></h4>
+                      <p>1 x $250</p>
                     </div>                    
                   </li>
                    <li>
                     <a href="#" class="aa-cartbox-img"><img alt="img" src="assets/img/woman-small-2.jpg"></a>
                     <div class="aa-cartbox-info">
-                      <h4><a href="#">Quả óc chó</a></h4>
-                      <p>1 x 550.000<sup><u>đ</u></sup></p>
+                      <h4><a href="#">Product Name</a></h4>
+                      <p>1 x $250</p>
                     </div>                    
                   </li>                                      
                 </ul>
@@ -492,28 +520,28 @@
             </div>
             <!-- single sidebar -->
             <div class="aa-sidebar-widget">
-              <h3>Mặt hàng xếp hạng cao</h3>
+              <h3>Top Rated Products</h3>
               <div class="aa-recently-views">
                 <ul>
                   <li>
                     <a href="#" class="aa-cartbox-img"><img alt="img" src="assets/img/woman-small-2.jpg"></a>
                     <div class="aa-cartbox-info">
-                      <h4><a href="#">Quả óc chó</a></h4>
-                      <p>1 x 550.000<sup><u>đ</u></sup></p>
+                      <h4><a href="#">Product Name</a></h4>
+                      <p>1 x $250</p>
                     </div>                    
                   </li>
                   <li>
                     <a href="#" class="aa-cartbox-img"><img alt="img" src="assets/img/woman-small-1.jpg"></a>
                     <div class="aa-cartbox-info">
-                      <h4><a href="#">Tinh dầu</a></h4>
-                      <p>1 x 300.000<sup><u>đ</u></sup></p>
+                      <h4><a href="#">Product Name</a></h4>
+                      <p>1 x $250</p>
                     </div>                    
                   </li>
                    <li>
                     <a href="#" class="aa-cartbox-img"><img alt="img" src="assets/img/woman-small-2.jpg"></a>
                     <div class="aa-cartbox-info">
-                      <h4><a href="#">Quả óc chó</a></h4>
-                      <p>1 x 550.000<sup><u>đ</u></sup></p>
+                      <h4><a href="#">Product Name</a></h4>
+                      <p>1 x $250</p>
                     </div>                    
                   </li>                                      
                 </ul>
@@ -556,5 +584,6 @@
       </div><!-- /.modal-content -->
     </div><!-- /.modal-dialog -->
   </div>    
-
+  </body>
+</html>
   
