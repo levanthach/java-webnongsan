@@ -18,8 +18,8 @@
           <div class="aa-error-area">
             <h2>404</h2>
             <span>Sorry! Page Not Found</span>
-            <p>Sorry this content has been moved Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum, amet perferendis, nemo facere excepturi quis.</p>
-            <a href="#"> Go to Homepage</a>
+            <p>Xin lỗi, nội dung này đã bị xóa hoặc không tồn tại. Vui lòng tìm kiếm lại!</p>
+            <a href="index.jsp"> Trở về trang chủ</a>
           </div>
         </div>
       </div>
