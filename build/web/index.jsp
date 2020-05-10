@@ -1343,7 +1343,7 @@
       <div class="row">
         <div class="col-md-12">
           <div class="aa-latest-blog-area">
-            <h2>BLOG CHĂM SÓC SỨC KHỎE</h2>
+            <h2>TIN TỨC</h2>
             <div class="row">
               <!-- single latest blog -->
               <div class="col-md-4 col-sm-4">
@@ -1465,7 +1465,7 @@
     </div>
   </section>
   <!-- / Subscribe section -->
-
+    
   <!-- Login Modal -->  
   <div class="modal fade" id="login-modal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
     <div class="modal-dialog">
