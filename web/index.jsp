@@ -5,6 +5,14 @@
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>HomePage</title>
+    </head>
+  <body> 
+   
   <!-- Start header section -->
   <jsp:include page = "./header/mainHeader.jsp" flush = "true" />
   <!-- / header section -->
@@ -1454,7 +1462,11 @@
     </div>
   </section>
   <!-- / Subscribe section -->
-    
+  
+<!--  footer-->
+ <jsp:include page = "./footer/footer.jsp" flush = "true" />
+<!-- end footer-->
+  
 
   <!-- Login Modal -->  
   <div class="modal fade" id="login-modal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
@@ -1479,9 +1491,6 @@
       </div><!-- /.modal-content -->
     </div><!-- /.modal-dialog -->
   </div>    
-<!--  footer-->
- <jsp:include page = "./footer/footer.jsp" flush = "true" />
-<!-- end footer-->
-
-
+  </body>
+</html>
   

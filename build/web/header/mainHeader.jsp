@@ -5,8 +5,14 @@
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
-
 <!DOCTYPE html>
+<<<<<<< HEAD
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>JSP Page</title>
+    </head>
+=======
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -51,6 +57,7 @@
     <![endif]-->
   
   </head>
+>>>>>>> lan_dev
     <body>
         
           <header id="aa-header">
@@ -75,3 +82,5 @@
         <!-- SCROLL TOP BUTTON -->
           <a class="scrollToTop" href="#"><i class="fa fa-chevron-up"></i></a>
         <!-- END SCROLL TOP BUTTON -->
+    </body>
+</html>
