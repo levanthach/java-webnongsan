@@ -858,8 +858,9 @@ img {
   color: #333;
   display: inline-block;
   float: none;
-  font-size: 50px;
-  font-family: "Raleway", sans-serif;
+  font-size: 40px;
+  margin: 10px 50px;
+  font-family: arial;
   font-weight: bold;
   margin-top: 20px;
   text-align: center;
@@ -1455,7 +1456,7 @@ img {
 
 #aa-testimonial {
   background-attachment: fixed;
-  background-image: url("../img/testimonial-bg-1.jpg");
+  background-image: url("../images/bg_tc.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   display: inline;
