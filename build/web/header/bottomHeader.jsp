@@ -5,6 +5,7 @@
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
+
          <div class="aa-header-bottom">
       <div class="container">
         <div class="row">
@@ -13,17 +14,12 @@
               <!-- logo  -->
               <div class="aa-logo">
                 <!-- Text based logo -->
-                <a href="index.jsp.html">
+<!--                <a href="index.jsp">
                   <span class="fa fa-shopping-cart"></span>
                   <p>daily<strong>Shop</strong> <span>Your Shopping Partner</span></p>
-                </a>
+                </a>-->
                 <!-- img based logo -->
                 <a href="index.jsp"><img src="./assets/images/logo.jpg" alt="logo img" width="100%"></a> 
-
-                <!-- <a href="index.html"><img src="assets/img/logo.jpg" alt="logo img"></a> -->
-
-                <a href="index.jsp"><img src="./assets/images/logo.jpg" alt="logo img" width="100%"></a> 
-
               </div>
               <!-- / logo  -->
               <!-- Shipping service -->

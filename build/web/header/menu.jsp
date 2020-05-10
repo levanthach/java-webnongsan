@@ -28,13 +28,7 @@
                   <li><a href="product.jsp">RAU CỦ QUẢ</a></li>
                   <li><a href="product.jsp">CÁC LOẠI HẠT</a></li>
                   <li><a href="product.jsp">TINH DẦU</a></li>
-                  <li><a href="product.jsp">MẬT ONG</a></li>                                                
-                    <ul class="dropdown-menu">
-                      <li><a href="#">Sleep Wear</a></li>
-                      <li><a href="#">Sandals</a></li>
-                      <li><a href="#">Loafers</a></li>                                      
-                    </ul>
-                  </li>
+                  <li><a href="product.jsp">MẬT ONG</a></li>
                 </ul>
               </li>
               <li><a href="index.jsp">TIN TỨC</a></li>

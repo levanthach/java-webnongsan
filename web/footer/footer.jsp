@@ -5,6 +5,7 @@
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
+
         <!-- footer -->  
   <footer id="aa-footer">
     <!-- footer bottom -->
@@ -87,4 +88,5 @@
    
     </body>
      <jsp:include page = "script.jsp" flush = "true" />
+
 </html>
