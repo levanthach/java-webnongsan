@@ -101,11 +101,11 @@
                 <!-- start single product item -->
                 <li>
                   <figure>
-                    <a class="aa-product-img" href="#"><img src="assets/img/women/girl-3.png" alt="polo shirt img"></a>
-                    <a class="aa-add-card-btn"href="#"><span class="fa fa-shopping-cart"></span>Add To Cart</a>
+                    <a class="aa-product-img" href="product-detail.jsp"><img src="assets/img/women/girl-3.png" alt="polo shirt img"></a>
+                    <a class="aa-add-card-btn"href="#"><span class="fa fa-shopping-cart"></span>Thêm vào giỏ hàng</a>
                     <figcaption>
-                      <h4 class="aa-product-title"><a href="#">Lorem ipsum doller</a></h4>
-                      <span class="aa-product-price">$45.50</span><span class="aa-product-price"><del>$65.50</del></span>
+                      <h4 class="aa-product-title"><a href="product-detail.jsp">Quả óc chó</a></h4>
+                      <span class="aa-product-price">$45.50</span><span class="aa-product-price"><del>550.000<sup><u>đ</u></sup></del></span>
                        <p class="aa-product-descrip">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Numquam accusamus facere iusto, autem soluta amet sapiente ratione inventore nesciunt a, maxime quasi consectetur, rerum illum.</p>
                     </figcaption>
                   </figure>                         
