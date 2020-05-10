@@ -5,7 +5,29 @@
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
-
+<!-- Login Modal -->  
+  <div class="modal fade" id="login-modal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">                      
+        <div class="modal-body">
+        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+          <h4>Đăng nhập hoặc Đăng ký</h4>
+          <form class="aa-login-form" action="">
+            <label for="">Username hoặc email<span>*</span></label>
+            <input type="text" placeholder="Username hoặc email">
+            <label for="">Mật khẩu<span>*</span></label>
+            <input type="password" placeholder="Mật khẩu">
+            <button class="aa-browse-btn" type="submit">Đăng nhập</button>
+            <label for="rememberme" class="rememberme"><input type="checkbox" id="rememberme"> Ghi nhớ tài khoản </label>
+            <p class="aa-lost-password"><a href="#">Quên mật khẩu?</a></p>
+            <div class="aa-register-now">
+              Bạn chưa có tài khoản?<a href="account.jsp">Đăng ký ngay!</a>
+            </div>
+          </form>
+        </div>                        
+      </div><!-- /.modal-content -->
+    </div><!-- /.modal-dialog -->
+  </div>    
         <!-- footer -->  
   <footer id="aa-footer">
     <!-- footer bottom -->
@@ -15,7 +37,7 @@
         <div class="col-md-12">
           <div class="aa-footer-top-area">
             <div class="row">
-              <div class="col-md-3 col-sm-6">
+              <div class="col-md-4 col-sm-6">
                 <div class="aa-footer-widget">
                   <h3>GIỚI THIỆU</h3>
                   <ul class="aa-footer-nav">
@@ -27,7 +49,7 @@
                   </ul>
                 </div>
               </div>
-              <div class="col-md-3 col-sm-6">
+              <div class="col-md-4 col-sm-6">
                 <div class="aa-footer-widget">
                   <div class="aa-footer-widget">
                     <h3>HỖ TRỢ KHÁCH HÀNG</h3>
@@ -41,7 +63,7 @@
                   </div>
                 </div>
               </div>
-              <div class="col-md-3 col-sm-6">
+              <div class="col-md-4 col-sm-6">
                 <div class="aa-footer-widget">
                   <div class="aa-footer-widget">
                     <h3>LIÊN HỆ</h3>
@@ -71,7 +93,7 @@
         <div class="row">
         <div class="col-md-12">
           <div class="aa-footer-bottom-area">
-            <p>Copyright 2020 &copy MarkUps.io</p>
+            <p>Copyright 2020 &copy VT3 Team</p>
             <div class="aa-footer-payment">
               <span class="fab fa-cc-mastercard"></span>
               <span class="fab fa-cc-visa"></span>

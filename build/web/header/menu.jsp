@@ -43,7 +43,7 @@
                     height: 100%;
                     position: absolute;
                     right: 5px;
-                    top: 5px;
+                    top: 0px;
                     width: 50px;
                     transition: all 0.5s;"><span class="fa fa-search"></span></a>
                 </form>

@@ -41,11 +41,11 @@
               <!-- / header top left -->
               <div class="aa-header-top-right">
                 <ul class="aa-head-top-nav-right">
-                  <li><a href="account.jsp">My Account</a></li>
+                  <li><a href="account.jsp">Tài khoản</a></li>
                   <li class="hidden-xs"><a href="wishlist.jsp">Wishlist</a></li>
-                  <li class="hidden-xs"><a href="cart.jsp">My Cart</a></li>
-                  <li class="hidden-xs"><a href="checkout.jsp">Checkout</a></li>
-                  <li><a href="" data-toggle="modal" data-target="#login-modal">Login</a></li>
+                  <li class="hidden-xs"><a href="cart.jsp">Giỏ hàng</a></li>
+                  <li class="hidden-xs"><a href="checkout.jsp">Thanh toán</a></li>
+                  <li><a href="" data-toggle="modal" data-target="#login-modal">Đăng nhập</a></li>
                 </ul>
               </div>
             </div>

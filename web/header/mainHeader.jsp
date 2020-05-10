@@ -15,9 +15,10 @@
     <title>Web Nông Sản</title>
     
     <!-- Font awesome -->
-    <link href="./assets/css/font-awesome.css" rel="stylesheet">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.13.0/css/all.css"
           integrity="sha384-Bfad6CLCknfcloXFOyFnlgtENryhrpZCe29RTifKEixXQZ38WheV+i/6YWSzkz3V" crossorigin="anonymous">
+    <link href="./assets/css/font-awesome.css" rel="stylesheet">
+    
     <!-- Bootstrap -->
     <link href="./assets/css/bootstrap.css" rel="stylesheet">   
     <!-- SmartMenus jQuery Bootstrap Addon CSS -->
