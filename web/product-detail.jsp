@@ -93,27 +93,25 @@
             </div>
             <div class="aa-product-details-bottom">
               <ul class="nav nav-tabs" id="myTab2">
-                <li><a href="#description" data-toggle="tab">Description</a></li>
-                <li><a href="#review" data-toggle="tab">Reviews</a></li>                
+                <li><a href="#description" data-toggle="tab">Mô tả</a></li>
+                <li><a href="#review" data-toggle="tab">Đánh giá</a></li>                
               </ul>
 
               <!-- Tab panes -->
               <div class="tab-content">
                 <div class="tab-pane fade in active" id="description">
-                  <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+                  <p>Quả óc chó là một cách tuyệt vời để tăng thêm chất dinh dưỡng, hương vị và độ giòn cho món ăn. Không chỉ có hương vị mà còn là giàu chất béo không bão hòa đơn thể tốt cho tim và là nguồn axit béo omega-3 quí hiếm. Axit béo omega-3 rất cần thiết cho não. Hạt óc chó cũng là nguồn dinh dưỡng giàu chất axit béo không no nhiều nối đôi(PUFA) có chứa Axit Alpha Lipoic(ALA), một dạng thực vật của axit béo omega-3. Ngoài các chất chống oxy hóa, một ounce(28,35g) cũng cung cấp 4g protein và 2g chất xơ.</p>
                   <ul>
-                    <li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, culpa!</li>
-                    <li>Lorem ipsum dolor sit amet.</li>
-                    <li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li>
-                    <li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor qui eius esse!</li>
-                    <li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, modi!</li>
+                    <li>Quả óc chó rất tốt với phụ nữ có thai và em bé.</li>
+                    <li>Ăn quả óc chó thường xuyên để có trái tim khỏe mạnh.</li>
+                    <li>Quả óc chó giúp cải thiện giấc ngủ.</li>
+                    <li>Ăn quả óc chó hằng ngày giúp nhuận tràng, có lợi cho bệnh tiểu đường.</li>
+                    <li>Quả óc chó giúp ngăn ngừa sỏi túi mật, bảo vệ xương.</li>
                   </ul>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, iusto earum voluptates autem esse molestiae ipsam, atque quam amet similique ducimus aliquid voluptate perferendis, distinctio!</p>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea, voluptas! Aliquam facere quas cumque rerum dolore impedit, dicta ducimus repellat dignissimos, fugiat, minima quaerat necessitatibus? Optio adipisci ab, obcaecati, porro unde accusantium facilis repudiandae.</p>
                 </div>
                 <div class="tab-pane fade " id="review">
                  <div class="aa-product-review-area">
-                   <h4>2 Reviews for T-Shirt</h4> 
+                   <h4>2 Đánh giá cho Quả óc chó</h4> 
                    <ul class="aa-review-nav">
                      <li>
                         <div class="media">
@@ -123,7 +121,7 @@
                             </a>
                           </div>
                           <div class="media-body">
-                            <h4 class="media-heading"><strong>Marla Jobs</strong> - <span>March 26, 2016</span></h4>
+                            <h4 class="media-heading"><strong>Hangutan</strong> - <span>DEC 26, 2019</span></h4>
                             <div class="aa-product-rating">
                               <span class="fa fa-star"></span>
                               <span class="fa fa-star"></span>
@@ -131,7 +129,7 @@
                               <span class="fa fa-star"></span>
                               <span class="fa fa-star-o"></span>
                             </div>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                            <p>Hàng tốt, giao hàng nhanh đóng gói cẩn thận. Sử dụng Ok!</p>
                           </div>
                         </div>
                       </li>
@@ -143,7 +141,7 @@
                             </a>
                           </div>
                           <div class="media-body">
-                            <h4 class="media-heading"><strong>Marla Jobs</strong> - <span>March 26, 2016</span></h4>
+                            <h4 class="media-heading"><strong>Thach</strong> - <span>Oct 5, 2019</span></h4>
                             <div class="aa-product-rating">
                               <span class="fa fa-star"></span>
                               <span class="fa fa-star"></span>
@@ -151,14 +149,14 @@
                               <span class="fa fa-star"></span>
                               <span class="fa fa-star-o"></span>
                             </div>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                            <p>Cam kết hàng đúng với ảnh, sử dụng chất lượng!</p>
                           </div>
                         </div>
                       </li>
                    </ul>
-                   <h4>Add a review</h4>
+                   <h4>Thêm đánh giá</h4>
                    <div class="aa-your-rating">
-                     <p>Your Rating</p>
+                     <p>Chấm điểm</p>
                      <a href="#"><span class="fa fa-star-o"></span></a>
                      <a href="#"><span class="fa fa-star-o"></span></a>
                      <a href="#"><span class="fa fa-star-o"></span></a>
@@ -168,11 +166,11 @@
                    <!-- review form -->
                    <form action="" class="aa-review-form">
                       <div class="form-group">
-                        <label for="message">Your Review</label>
+                        <label for="message">Đánh giá của bạn</label>
                         <textarea class="form-control" rows="3" id="message"></textarea>
                       </div>
                       <div class="form-group">
-                        <label for="name">Name</label>
+                        <label for="name">Tên</label>
                         <input type="text" class="form-control" id="name" placeholder="Name">
                       </div>  
                       <div class="form-group">
@@ -180,7 +178,7 @@
                         <input type="email" class="form-control" id="email" placeholder="example@gmail.com">
                       </div>
 
-                      <button type="submit" class="btn btn-default aa-review-submit">Submit</button>
+                      <button type="submit" class="btn btn-default aa-review-submit">Gửi</button>
                    </form>
                  </div>
                 </div>            
@@ -188,16 +186,16 @@
             </div>
             <!-- Related product -->
             <div class="aa-product-related-item">
-              <h3>Related Products</h3>
+              <h3>Mặt hàng liên quan</h3>
               <ul class="aa-product-catg aa-related-item-slider">
                 <!-- start single product item -->
                 <li>
                   <figure>
                     <a class="aa-product-img" href="#"><img src="assets/img/man/polo-shirt-2.png" alt="polo shirt img"></a>
-                    <a class="aa-add-card-btn"href="#"><span class="fa fa-shopping-cart"></span>Add To Cart</a>
+                    <a class="aa-add-card-btn"href="#"><span class="fa fa-shopping-cart"></span>Thêm vào giỏ hàng</a>
                      <figcaption>
-                      <h4 class="aa-product-title"><a href="#">Polo T-Shirt</a></h4>
-                      <span class="aa-product-price">$45.50</span><span class="aa-product-price"><del>$65.50</del></span>
+                      <h4 class="aa-product-title"><a href="#">Hạt điều</a></h4>
+                      <span class="aa-product-price">500.000<sup><u>đ</u></sup></span><span class="aa-product-price"><del>800.000<sup><u>đ</u></sup></del></span>
                     </figcaption>
                   </figure>                     
                   <div class="aa-product-hvr-content">
@@ -212,10 +210,10 @@
                 <li>
                   <figure>
                     <a class="aa-product-img" href="#"><img src="assets/img/women/girl-2.png" alt="polo shirt img"></a>
-                    <a class="aa-add-card-btn"href="#"><span class="fa fa-shopping-cart"></span>Add To Cart</a>
+                    <a class="aa-add-card-btn"href="#"><span class="fa fa-shopping-cart"></span>Thêm vào giỏ hàng</a>
                     <figcaption>
-                      <h4 class="aa-product-title"><a href="#">Lorem ipsum doller</a></h4>
-                      <span class="aa-product-price">$45.50</span>
+                      <h4 class="aa-product-title"><a href="#">Tinh dầu</a></h4>
+                      <span class="aa-product-price">300.000<sup><u>đ</u></sup></span>
                     </figcaption>
                   </figure>                      
                   <div class="aa-product-hvr-content">
@@ -230,11 +228,11 @@
                 <li>
                   <figure>
                     <a class="aa-product-img" href="#"><img src="assets/img/man/t-shirt-1.png" alt="polo shirt img"></a>
-                    <a class="aa-add-card-btn"href="#"><span class="fa fa-shopping-cart"></span>Add To Cart</a>
+                    <a class="aa-add-card-btn"href="#"><span class="fa fa-shopping-cart"></span>Thêm vào giỏ hàng</a>
                   </figure>
                   <figcaption>
-                    <h4 class="aa-product-title"><a href="#">T-Shirt</a></h4>
-                    <span class="aa-product-price">$45.50</span>
+                    <h4 class="aa-product-title"><a href="#">Mật ong</a></h4>
+                    <span class="aa-product-price">400.000<sup><u>đ</u></sup></span>
                   </figcaption>
                   <div class="aa-product-hvr-content">
                     <a href="#" data-toggle="tooltip" data-placement="top" title="Add to Wishlist"><span class="fa fa-heart-o"></span></a>
@@ -250,8 +248,8 @@
                     <a class="aa-product-img" href="#"><img src="assets/img/women/girl-3.png" alt="polo shirt img"></a>
                     <a class="aa-add-card-btn"href="#"><span class="fa fa-shopping-cart"></span>Add To Cart</a>
                      <figcaption>
-                      <h4 class="aa-product-title"><a href="#">Lorem ipsum doller</a></h4>
-                      <span class="aa-product-price">$45.50</span><span class="aa-product-price"><del>$65.50</del></span>
+                      <h4 class="aa-product-title"><a href="#">Rau cải</a></h4>
+                      <span class="aa-product-price">50.000<sup><u>đ</u></sup></span><span class="aa-product-price"><del>65.000<sup><u>đ</u></sup></del></span>
                     </figcaption>
                   </figure>                     
                   <div class="aa-product-hvr-content">
